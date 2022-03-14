@@ -7,14 +7,14 @@ title: Rui's Zone
 subtitle: 'Ruiの学习空间'
 description: 'bxrの学习空间'
 keywords:
-author: BXR
+author: Rui's
 language: zh-CN
 timezone: ''
 email: banxiangrui@126.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://ruilearning.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
