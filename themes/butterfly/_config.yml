@@ -123,7 +123,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://raw.githubusercontent.com/ruiLearning/ruiLearning.github.io/main/img/af5c422da005d7ac4d61b321e3b0189c.jpeg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -601,7 +601,7 @@ subtitle:
   # source: 2  調用一句網（簡體） http://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
-  source: false
+  source: 2
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
     - 今日事&#44;今日畢

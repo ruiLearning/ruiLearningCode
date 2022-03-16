@@ -2,7 +2,11 @@
 title: MarkDown语法及美化预览
 date: 2022-03-14 11:14:21
 tags:
-	- markdown	
+    - markdown
+categories: 
+    - markdown
+cover: https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true
+top_img: https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true
 ---
 
 Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。
