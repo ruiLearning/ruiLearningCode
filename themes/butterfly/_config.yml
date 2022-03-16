@@ -120,7 +120,7 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - https://raw.githubusercontent.com/ruiLearning/ruiLearning.github.io/main/img/af5c422da005d7ac4d61b321e3b0189c.jpeg
@@ -191,10 +191,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: /img/wechatimg.jpg
+    - img: /img/wechatimg.png
       link:
       text: wechat
-    - img: /img/alipayimg.jpg
+    - img: /img/alipayimg.png
       link:
       text: alipay
 
