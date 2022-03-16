@@ -76,11 +76,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/head.jpg
+favicon: /img/ruiruilaile_cycle.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/head.jpg
+  img: /img/ruiruilaile_cycle.png
   effect: false
 
 # Disable all banner image
