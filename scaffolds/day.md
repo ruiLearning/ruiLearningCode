@@ -7,7 +7,6 @@ categories:
     - 总结
 description: "日总结"
 toc: true
-indexing: false
 cover:
 top_img:
 ---
