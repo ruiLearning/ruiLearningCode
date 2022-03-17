@@ -5,8 +5,8 @@ tags:
     - markdown
 categories: 
     - markdown
-cover: https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true
-top_img: https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true
+cover: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
+top_img: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
 ---
 
 # 这是一级标题
