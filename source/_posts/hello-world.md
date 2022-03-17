@@ -1,5 +1,6 @@
 ---
-title: Hello 
+title: Hello
+date: 2022-03-11 23:46:02
 cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 tags:
 categories:

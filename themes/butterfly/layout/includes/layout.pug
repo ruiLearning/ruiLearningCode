@@ -1,18 +1,18 @@
 - var htmlClassHideAside = theme.aside.enable && theme.aside.hide ? 'hide-aside' : ''
 - var hideAside = !theme.aside.enable || page.aside === false ? 'hide-aside' : ''
 - var pageType = is_post() ? 'post' : 'page'
-
+//-     if theme.preloader
+//-       !=partial('includes/loading/loading', {}, {cache: true})
 doctype html
 html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside)
   head
     include ./head.pug
   body
     if theme.preloader
-      !=partial('includes/loading/loading', {}, {cache: true})
-
+          !=partial('includes/loading/loaded.ejs', {}, {cache:true})
     if theme.background
       #web_bg
-      
+
     !=partial('includes/sidebar', {}, {cache: true})
 
     if page.type !== '404'
