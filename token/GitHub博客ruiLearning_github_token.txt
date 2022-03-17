@@ -1,9 +1,4 @@
 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
 
 
-git remote set-url main https://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@github.com/shliang0603/Yolov4_DeepSocial.git/
-
-git remote set-url origin https://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@git@github.com:ruiLearning/ruiLearningCode.git
-
-
 git remote set-url origin https://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@github.com/ruiLearning/ruiLearningCode.git

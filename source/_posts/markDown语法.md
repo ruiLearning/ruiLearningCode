@@ -5,8 +5,8 @@ tags:
     - markdown
 categories: 
     - markdown
-cover: https://raw.githubusercontent.com/ruiLearning/ruiLearningCode/main/img/ffa39fa3126e3d5f44386b49d9836580.jpg?token=AYFOIMI3LLKOFQZZSRWGFYLCGCY4M
-top_img: https://www.runoob.com/wp-content/uploads/2019/03/22A9BC11-BA3E-40D8-90B0-DC4FD29F9C02.jpg
+cover: https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true
+top_img: https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/791bf5e809a4185012f2cbc7e30d1739.jpeg?raw=true
 ---
 
 # 这是一级标题
