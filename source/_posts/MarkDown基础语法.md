@@ -1,5 +1,5 @@
 ---
-title: markDown语法
+title: MarkDown基础语法
 date: 2022-03-15 23:46:02
 tags:
     - markdown
@@ -36,9 +36,12 @@ Markdown是一种纯文本格式的标记语言。通过简单的标记语法，
 ***这是斜体加粗的文字***
 ~~这是加删除线的文字~~
 
+<p>To reboot your computer, press <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>del</kbd>.</p>
+
 >这是引用的内容
 >>这是引用的内容
 >>>>>>>>>>这是引用的内容
+
 ```
 # 这是一级标题
 ## 这是二级标题
@@ -53,9 +56,23 @@ Markdown是一种纯文本格式的标记语言。通过简单的标记语法，
 ***这是斜体加粗的文字***
 ~~这是加删除线的文字~~
 
+<p>To reboot your computer, press <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>del</kbd>.</p>
+
+
+<dl>
+    <dt>Definition list</dt>
+    <dd>Is something people use sometimes.</dd>
+
+    <dt>Markdown in HTML</dt>
+    <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
 >这是引用的内容
 >>这是引用的内容
 >>>>>>>>>>这是引用的内容
+
+
 ```
 
 > 区块中使用列表
@@ -191,6 +208,11 @@ title可加可不加
 关羽|打|二哥
 张飞|骂|三弟
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 ```
 
 | 左对齐 | 右对齐 | 居中对齐 |
@@ -211,6 +233,11 @@ title可加可不加
 刘备|哭|大哥
 关羽|打|二哥
 张飞|骂|三弟
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ```
 
