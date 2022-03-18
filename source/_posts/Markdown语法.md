@@ -3,11 +3,25 @@ title: markDown语法
 date: 2022-03-15 23:46:02
 tags:
     - markdown
+    - blog
 categories: 
     - markdown
 cover: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
 top_img: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
 ---
+```
+Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。
+
+相比WYSIWYG编辑器
+
+优点：
+1、因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。
+2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而Markdown只需要在标题内容前加#即可
+
+缺点：
+1、需要记一些语法（当然，是很简单。五分钟学会）。
+2、有些平台不支持Markdown编辑模式
+```
 
 # 这是一级标题
 ## 这是二级标题
@@ -122,26 +136,22 @@ top_img: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
 ```
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+![芮芮来了 图标](https://ruilearning.github.io/img/ruiruilaile_cycle.png "芮芮来了")
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
-
-这个链接用 1 作为网址变量 [RUNOOB][1].
+这个链接用 1 作为网址变量 [芮芮来了][1].
 然后在文档的结尾为变量赋值（网址）
 
-[1]: http://static.runoob.com/images/runoob-logo.png
-<img src="http://static.runoob.com/images/runoob-logo.png" width="20%">
+[1]: https://ruilearning.github.io/img/ruiruilaile_cycle.png
+<img src="https://ruilearning.github.io/img/ruiruilaile_cycle.png" width="20%">
 ```
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+![芮芮来了 图标](https://ruilearning.github.io/img/ruiruilaile_cycle.png "芮芮来了")
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
-
-这个链接用 1 作为网址变量 [RUNOOB][1].
+这个链接用 1 作为网址变量 [芮芮来了][1].
 然后在文档的结尾为变量赋值（网址）
 
-[1]: http://static.runoob.com/images/runoob-logo.png
+[1]: https://ruilearning.github.io/img/ruiruilaile_cycle.png
 
-<img src="http://static.runoob.com/images/runoob-logo.png" width="20%">
+<img src="https://ruilearning.github.io/img/ruiruilaile_cycle.png" width="20%">
 ```
 
 [超链接名](超链接地址 "超链接title")
