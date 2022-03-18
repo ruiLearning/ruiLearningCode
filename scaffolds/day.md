@@ -7,6 +7,6 @@ categories:
     - 总结
 description: "日总结"
 toc: true
-cover:
-top_img:
+cover: /img/day.png
+top_img: /img/day.png
 ---

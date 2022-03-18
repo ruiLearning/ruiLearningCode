@@ -59,3 +59,9 @@ Markdown | Less | Pretty
 **名字+icon**
 <!-- endtab -->
 {% endtabs %}
+
+
+<!-- ====================视频==================== -->
+<video src="/video/VID_20220318_154427.mp4" controls="controls" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;">
+your browser does not support the video tag
+</video>
