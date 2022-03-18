@@ -6,11 +6,15 @@ categories:
   - 技术
 description: ''
 toc: true
-indexing: false
 date: 2022-03-16 18:20:41
 cover:
 top_img:
 ---
+
+```
+toc: true 索引
+indexing: false 搜索不展示，但是没生效
+```
 
 ```
 hexo help  # 查看帮助
