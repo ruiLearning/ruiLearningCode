@@ -150,3 +150,7 @@ live2d:
     show: true
   react:
     opacity: 0.9
+
+aplayer:
+  meting: true
+  asset_inject: false
