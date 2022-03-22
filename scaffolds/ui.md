@@ -15,6 +15,9 @@ top_img:
 
 button  {% btn 'https://butterfly.js.org',Butterfly,far fa-hand-point-right,block left blue larger %}
 
+- [ ] 复选框未选中
+- [x] 复选框选中
+
 {% note blue 'fas fa-bullhorn' flat %}
 note
 {% endnote %}
