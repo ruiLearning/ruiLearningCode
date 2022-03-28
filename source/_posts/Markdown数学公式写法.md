@@ -16,6 +16,7 @@ top_img: /img/cb423f162652e4dfad5b5faca14ae5fe.jpeg
 ## 常用
 
 $h^2$
+$A\prime$
 $C_n^2$
 $\{a\*b\}: $
 $(2+3)[4+4]$
