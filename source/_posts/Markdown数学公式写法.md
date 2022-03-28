@@ -14,6 +14,15 @@ top_img: /img/cb423f162652e4dfad5b5faca14ae5fe.jpeg
 ---
 
 ## 常用
+$
+\because
+\therefore
+\forall
+\exists
+\not=
+\not>
+\not\subset
+$
 
 $h^2$
 $A\prime$
