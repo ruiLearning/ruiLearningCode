@@ -13,23 +13,22 @@ top_img: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
 ---
 <!-- ====================简单属性 ====================-->
 `红字浅灰色背景`
+
+{% label 红色label red %} <!-- / blue / pink / red / purple / orange / green -->
+
+button  {% btn 'https://butterfly.js.org',Butterfly,far fa-hand-point-right,block left blue larger %}
+
+- [ ] 复选框未选中
+- [x] 复选框选中
+
+{% note blue 'fas fa-bullhorn' flat %}
+note
+{% endnote %}
+
 * 第一项
   > 1.1
   > 1.2
 * 第二项
-
-<!-- ====================label==================== -->
-{% label 红色label red %} <!-- / blue / pink / red / purple / orange / green -->
-
-<!-- ====================button==================== -->
-
-button  {% btn 'https://butterfly.js.org',Butterfly,far fa-hand-point-right,block left blue larger %}
-
-<!-- ====================note==================== -->
-{% note blue 'fas fa-bullhorn' flat %}
-note
-{% endnote %}
-<!-- ====================图片==================== -->
 
 <!-- ====================图片==================== -->
 <img src=" /img/791bf5e809a4185012f2cbc7e30d1739.jpeg" width="50%" height="20%" align="left">
@@ -66,3 +65,9 @@ Markdown | Less | Pretty
 **名字+icon**
 <!-- endtab -->
 {% endtabs %}
+
+
+<!-- ====================视频==================== -->
+<video src="/video/VID_20220318_154427.mp4" controls="controls" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;">
+your browser does not support the video tag
+</video>
