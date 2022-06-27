@@ -10,7 +10,7 @@ top_img: /img/d0dd2e7f6f06d149da510faf0b47c0b3.jpeg
 ---
 
 
-# 提面常见问题-英语es
+<!-- 提面常见问题-英语es -->
 
 
 ## 没听懂时怎么办？  
@@ -218,8 +218,10 @@ How do you entertain yourself after work?你下班后怎么消遣?
   不管是什么原因，我还是很感谢新晨，它给了我一个很好的机会去发展自己的能力，提高自己的管理能力。
 
 ## 成就 achievements  
-    Actually, my past work experience is a chain of failures and achievements! 
-    事实上，我过去的工作经历是一连串的失败和成就!
+
+   Actually, my past work experience is a chain of failures and achievements! 
+   事实上，我过去的工作经历是一连串的失败和成就!
+
  - （**说法1-之前做过的成就** ）The biggest accomplishment during my work is that I have finished three famous projects,like **Lamour、FancyU、CCTV微视APP** . 
     and I am sure I can apply my experience to this position. 
     在我的工作期间取得的最大成就是,我已经完成了三个著名的项目,如微视应用, Lamour FancyU。我相信我能将我的经验用在这方面。
@@ -233,31 +235,32 @@ How do you entertain yourself after work?你下班后怎么消遣?
     正因为如此，我被提升为这个团队的 ProjectManager(PM)。 
 
 ## 为什么报考 MBA？  
+  why do you choose our university/college? 你为什么选择我们学校? 
+  Why you go back and apply for MBA?你为什么要回去申请MBA? 
+  Why do you choose MBA? 你为什么选择MBA? 
+  Why should we accept you?我们为什么要接受你? 
+  Why do you pursue a further study?你为什么要继续深造?
 
-why do you choose our university/college? 你为什么选择我们学校? 
-Why you go back and apply for MBA?你为什么要回去申请MBA? 
-Why do you choose MBA? 你为什么选择MBA? 
-Why should we accept you?我们为什么要接受你? 
-Why do you pursue a further study?你为什么要继续深造?
-**回答1 ：**  
-Last year, I made the decision to pursue a MBA degree. I did this because I felt more and more 
-desired to improve my management knowledge and abilities as my job  becomes increasingly 
-challenging. 
-去年，我决定攻读MBA学位。我这么做是因为我觉得 越来越多的人希望在工作中提高自己的管理知
-识和能力 变得越来越有挑战性。 
-**回答2 ：（优先）**  
-Well, Last year, I had the thought that I wanted to pursue a MBA degree. 
-嗯，去年，我有了想要攻读MBA学位的想法。 
-First of all, as I got higher on the position ladder, and assumed bigger responsibility, I began to 
-feel that my management ability was gradually pulling me back in my career development. 
-首先，随着我在职位阶梯上的地位上升，承担的责任也更大，我 我开始觉得我的管理能力正在逐渐
-把我拉回我的职业生涯 发展。 
-Second, I take MBA because I want to take some positions of real and big responsibilities.I 
-started working as an engineer 10 years ago. I know how to develop new products, but I'm not 
-very good at marketing these products and convert them into profits. That's why I hope MBA 
-would help me in this respect. 
-其次，我读MBA是因为我想换一份工作。 10 年前我开始当工程师。我知道如何开发新产品，但我不
-擅⻓营销这些产品并将其转化为利润。这就是为什么我希望MBA能在这方面帮助我。 
+- **回答1 ：（优先）**  
+  Well, Last year, I had the thought that I wanted to pursue a MBA degree. 
+  嗯，去年，我有了想要攻读MBA学位的想法。 
+  `First of all`, as I got higher on the position ladder, and assumed bigger responsibility, 
+  I began to feel that my management ability was gradually pulling me back in my career development. 
+  `首先`，随着我在职位阶梯上的地位上升，承担的责任也更大，我开始觉得我的管理能力正在逐渐把我拉回我的职业生涯发展。 
+  `Second`, I take MBA because I want to take some positions of real and big responsibilities.
+  I started working as an engineer 10 years ago. 
+  I know how to develop new products, but I'm not very good at marketing these products and convert them into profits. 
+  That's why I hope MBA would help me in this respect. 
+  `其次`，我读MBA是因为我想换一份工作。
+  10年前我开始当工程师。
+  我知道如何开发新产品，但我不擅⻓营销这些产品并将其转化为利润。
+  这就是为什么我希望MBA能在这方面帮助我。 
+
+- **回答2 ：**  
+  Last year, I made the decision to pursue a MBA degree.
+  I did this because I felt more and more desired to improve my management knowledge and abilities as my job  becomes increasingly challenging.
+  去年，我决定攻读MBA学位。
+  我这么做是因为我觉得越来越多的人希望在工作中提高自己的管理知 识和能力 变得越来越有挑战性。
 
 ## 为什么选择我们的学校？  
 
@@ -266,60 +269,60 @@ Why do you choose our university/college? 你为什么选择我们学校?
 
 - I choose our University because it's the most suited to me. 
   我选择我们学校是因为它最适合我。
--**Innovation and knowledge management**  创新与知识管理 
--**Operations and marketing**  运营与市场营销 
--**（北科大）Business analytics and big data 商业分析及大数据**  
+    - **Innovation and knowledge management**  创新与知识管理 
+    - **Operations and marketing**  运营与市场营销 
+    - **（北科大）Business analytics and big data 商业分析及大数据**  
+  
 - Its learning schedule and timetable is appealing to me. 
   它的学习计划和时间表很吸引我。
 - There are many reasons contributing to my decision to get further study. 
   有许多原因促使我决定继续深造。
-  To begin with,I find that the knowledge I have learned is very limited, especially when I cope 
-  with some very professional issues.I wish broaden my horizon. 
+  
+To begin with,I find that the knowledge I have learned is very limited, especially when I cope with some very professional issues.
+  I wish broaden my horizon. 
   There are my clear and simple reasons why I choose to continue study. 
-  首先，我发现我所学到的知识非常有限，特别是当我处理一些非常专业的问题时。我希望拓宽我的视
-  野. 
+  首先，我发现我所学到的知识非常有限，特别是当我处理一些非常专业的问题时。
+  我希望拓宽我的视野. 
   这是我选择继续学习的明确而简单的原因。
 
 
 ## 短/⻓期目标/计划/规划/5 年的职业规划  
 
-What is your long and short goal in your work  and life? 你在工作和生活中的⻓期和短期目标是什
-么? 
-How do you plan to achieve them? What are your plans for the future? 你打算如何实现这些目标?
-你将来的计划是什么? 
-Do you have any plans for your career? 你对你的职业有什么计划吗? 
-What is your career objectives?你的职业目标是什么? 
-What do you think of the outlook of this industry in five years?你认为五年内这个行业的发展状况
-如何? 
-**回答1 ：**  
-Become an expert in the field of software technology 
-成为软件技术领域的专家
-So I can obtain a better working knowledge, both software technology and communication 
-with people. 
-所以我可以获得更好的工作知识，无论是软件技术还是与人沟通。
-I would like to take the following steps: 
+What is your long and short goal in your work  and life? 
+你在工作和生活中的⻓期和短期目标是什 么? 
+How do you plan to achieve them? What are your plans for the future? 
+你打算如何实现这些目标? 你将来的计划是什么? 
+Do you have any plans for your career? 
+你对你的职业有什么计划吗? 
+What is your career objectives?
+你的职业目标是什么? 
+What do you think of the outlook of this industry in five years?
+你认为五年内这个行业的发展状况 如何?
+- **回答2 ：（优先）**  
+  I expect to become a CEO of a technology Company 5 years later.
+  我希望在 5 年后成为一家科技公司的首席执行官。
+ - First, I've always been hugely interested in technology job, so I guess I will take technology-related jobs after MBA graduation.
+ - Second, I want to take some positions of real and big responsibilities.
+ - 首先，我一直对技术工作非常感兴趣，所以我想MBA毕业后我会从事与技术相关的工作。
+ - 第二，我想担任一些真正有责任的职位
 
-- First of all, I would study some professional knowledge. 
-- Secondly, I will learn how to communicate with both my team members and my clients. 
-- Finally, I can find an opportunity at a management position. 
+- **回答1 ：**  
+  Become an expert in the field of software technology 
+  成为软件技术领域的专家
+  So I can obtain a better working knowledge, both software technology and communication with people. 
+  所以我可以获得更好的工作知识，无论是软件技术还是与人沟通。
+
+  I would like to take the following steps: 
+  - First of all, I would study some professional knowledge. 
+  - Secondly, I will learn how to communicate with both my team members and my clients. 
+  - Finally, I can find an opportunity at a management position. 
+    
   我想采取以下步骤: 
-- 首先，我会学习一些专业知识。
-- 其次，我将学习如何与我的团队成员和我的客戶沟通。
-- 最后，我能找到一个从事管理工作的机会。
- **回答2 ：（优先）**  
-  I expect to become a CEO of a technology Company 5 years later. 
-  我希望在 5 年后成为一家科技公司的首席执行官。 
-  First, I've always been hugely interested in technology job, so I guess I will take technology-
-  related jobs after MBA graduation. 
-
- 
-
-- Second, I want to take some positions of real and big responsibilities. 
-- 首先，我一直对技术工作非常感兴趣，所以我想MBA毕业后我会从事与技术相关的工作。 
-- 第二，我想担任一些真正有责任的职位
+  - 首先，我会学习一些专业知识。
+  - 其次，我将学习如何与我的团队成员和我的客戶沟通。
+  - 最后，我能找到一个从事管理工作的机会。
 
 ## 关于未来目标  
-
 
 In order to achieve this goal, I just want to work  step by step. 
 为了达到这个目标，我只想一步一步地踏实工作。
@@ -337,45 +340,20 @@ develop my skills as much as possible.
 
 ## 最崇拜的人 Mr.zhu  
 
-We need someone with management skills to lead a team: he is able to see the big picture of 
-the project, arrange people, balance personal relationships and organize resources effectively. 
-我们需要有管理技能的人来领导一个团队:他能够看到项目的大局，安排人员，平衡个人关系，有效
-地组织资源。
+We need someone with management skills to lead a team: 
+he is able to see the big picture of the project, arrange people, balance personal relationships and organize resources effectively. 
+我们需要有管理技能的人来领导一个团队:他能够看到项目的大局，安排人员，平衡个人关系，有效地组织资源。
 
 ## 你认为你做一个 MBA 学生合格吗？  
 
 Well I think I do. 我认为是的。 
-First, My academic record is is not bad, which means I have good language proficiency, 
-sound logic ability, and required intelligence, which are important requirement of MBA 
-student. 
-
+`First`, My academic record is is not bad, which means I have good language proficiency, sound logic ability, and required intelligence, which are important requirement of MBA student.
+`Second`, I have many achievements in my past work  history, and I have also demonstrated much individual potential on my job, like leadership skills and communication ability.
+`Third`, my learning ability is good, which means I won't be exhausted in my coming MBA study. 
  
-
-```
-Second, I have many achievements in my past work  history, and I have also demonstrated 
-much individual potential on my job, like leadership skills and communication ability. 
-```
-
-```
-Third, my learning ability is good, which means I won't be exhausted in my coming MBA 
-study. 
-```
- 
-
-### 首先，我的学习成绩还不错，这意味着我有良好的语言能力，良好的逻辑能力，需要的智力，这
-
-### 是MBA学生的重要要求。 
-
- 
-
-### 第二，我在过去的工作经历中取得了很多成就，在工作中也展现了很多个人潜力，如领导能力和
-
-### 沟通能力。
-
- 
-
-  第三，我的学习能力很好，这意味着我不会在接下来的MBA学习中疲惫不堪。 
-
+首先，我的学习成绩还不错，这意味着我有良好的语言能力，良好的逻辑能力，需要的智力，这是MBA学生的重要要求。 
+第二，我在过去的工作经历中取得了很多成就，在工作中也展现了很多个人潜力，如领导能力和沟通能力。
+第三，我的学习能力很好，这意味着我不会在接下来的MBA学习中疲惫不堪。 
 
 ## 你对于 MBA 详细的学习计划？  
 
@@ -383,68 +361,34 @@ Well I think I do, though it's not as detailed as my daily timetable.
 嗯，我想我知道，尽管它不像我的每日时间表那么详细。
 I guess my MBA study will fall into 3 steps. 
 我想我的MBA学习将分为三个步骤。 
-**For the first couple of months,** I will basically focus on textbooks. I mean I will try my best to 
-learn elementary MBA courses, like management science, the art of decision making, finance, 
-marketing and alike. Through the first step, I expect to lay a solid theoretical foundation for my 
-further learning. 
-在最初的几个月里，我将主要关注课本。我的意思是我会尽我最大的努力学习MBA的基础课程，比
-如管理学、决策艺术、金融、市场营销等等。通过第一步的学习，我希望为以后的学习打下坚实的理
-论基础。
-**During the second step,** I will find chances to put my knowledge into full play. There are 
-actually a lot of ways to do it, like case study, management practice, forum, simulation, intern 
-and etc. By doing these, I expect to have some hands-on experience of how these theories can 
-be best used in real world. 
-在第二步，我会找到机会充分发挥我的知识。有其实有很多方法，比如案例研究，管理实践，论坛，
-模拟， 实习生等。通过做这些，我希望能有一些实践经验 理论最适用于现实世界， 
-**As to the last step** , I will try to position myself in the working world by what I have learnt. Say, 
-I find out I'm especially good at finance, so why not join famous companies like Morgan 
-Stanley? 
-至于最后一步，我会努力在工作的世界中定位自己所学的东西。 比如说，我发现自己特别擅⻓金
-融，为什么不加入像摩根这样著名的公司呢 斯坦利? 
+**For the first couple of months,** I will basically focus on textbooks. I mean I will try my best to learn elementary MBA courses, like management science, the art of decision making, finance, marketing and alike. Through the first step, I expect to lay a solid theoretical foundation for my further learning. 
+在最初的几个月里，我将主要关注课本。我的意思是我会尽我最大的努力学习MBA的基础课程，比如管理学、决策艺术、金融、市场营销等等。通过第一步的学习，我希望为以后的学习打下坚实的理论基础。
+**During the second step,** I will find chances to put my knowledge into full play. There are actually a lot of ways to do it, like case study, management practice, forum, simulation, intern and etc. By doing these, I expect to have some hands-on experience of how these theories can be best used in real world. 
+在第二步，我会找到机会充分发挥我的知识。有其实有很多方法，比如案例研究，管理实践，论坛，模拟， 实习生等。通过做这些，我希望能有一些实践经验 理论最适用于现实世界， 
+**As to the last step** , I will try to position myself in the working world by what I have learnt. Say, I find out I'm especially good at finance, so why not join famous companies like Morgan Stanley? 
+至于最后一步，我会努力在工作的世界中定位自己所学的东西。 比如说，我发现自己特别擅⻓金融，为什么不加入像摩根这样著名的公司呢 斯坦利?
 
 ## 你认为你会在 MBA 学习中受益吗？  
-
 **Hugely! 巨大的!**  
 The benefits are: 好处是: 
 My strengths will be strengthened and my weakness will be weakened. 
 我的优势将得到加强，我的弱点将被削弱。
 **Seriously, I reckon I will benefit in the following.**  
 说真的，我认为我将在以下方面受益。
-**To start with,** my business knowledge will be enriched. By learning those scientifically 
+**To start with,** my business knowledge will be enriched. By learning those scientifically designed curriculums, like economics, management, finance and marketing, I will more deeply than ever understand how the business world really goes around. 
+首先，我的商业知识将得到丰富。通过学习那些科学设计的课程，如经济学、管理学、金融学和市场 学，我将比以往任何时候都更深刻地理解商业世界是如何运转的。
+**Second,** I guess my mindset will be changed. I mean I will have a brand new way of looking at problems, by learning new approaches of decision makings. One more thing, my leadership skills will be promoted and I will know better how to conduct business in my future work. 
+第二，我想我的心态将会改变。我的意思是我将有一个全新的视⻆ 通过学习新的决策方法来解决问题。还有件事，我的 我的领导能力会得到提升，而且我也会更清楚地知道如何在公司里做生意未来的工作。
+**Last,** my business network will be expanded by getting to know many talented classmates, and I will have clearer ideas of how to develop my career in the future. 
+最后，通过认识很多有才华的同学，我的商业网络将会扩大，我也会对未来的职业发展有更清晰的想法。
 
-
-designed curriculums, like economics, management, finance and marketing, I will more 
-deeply than ever understand how the business world really goes around. 
-首先，我的商业知识将得到丰富。通过学习那些科学设计的课程，如经济学、管理学、金融学和市场
-学，我将比以往任何时候都更深刻地理解商业世界是如何运转的。
-**Second,** I guess my mindset will be changed. I mean I will have a brand new way of looking at 
-problems, by learning new approaches of decision makings. One more thing, my leadership 
-skills will be promoted and I will know better how to conduct business in my future work. 
-第二，我想我的心态将会改变。我的意思是我将有一个全新的视⻆ 通过学习新的决策方法来解决问
-题。还有件事，我的 我的领导能力会得到提升，而且我也会更清楚地知道如何在公司里做生意 未来
-的工作。
-**Last,** my business network will be expanded by getting to know many talented classmates, 
-and I will have clearer ideas of how to develop my career in the future. 
-最后，通过认识很多有才华的同学，我的商业网络将会扩大， 我也会对未来的职业发展有更清晰的
-想法。
-
-## 工作经验对于 MBA 来说重要吗？  
-
-**Well, as far as I see it, working experience is important, but not prerequisite for MBA 
-study.**  
+## 工作经验对于 MBA来说重要吗？  
+**Well, as far as I see it, working experience is important, but not prerequisite for MBA study.**  
 嗯，在我看来，工作经验很重要，但不是MBA学习的先决条件。 
-Working experience is important because, first of all, students with experiences will have 
-clearer targets of what they want to learn during their study. For example, a student with a 
-technical background will focus on the learning of economic and managerial knowledge. 
-工作经验很重要，因为首先，有工作经验的学生在学习过程中会对他们想要学习的东西有更明确的目
-标。例如，一个有技术背景的学生将重点学习经济和管理知识。
-Secondly, students with work experience will choose to look at and analyze problems in a 
-different way. A college student wonders why he has to learn this or that, but a MBA student 
-knows exactly why. A college student wonders how to use the knowledge in real world, but a 
-MBA student does. 
-其次，有工作经验的学生会选择用不同的方式看待和分析问题。大学生想知道他为什么要学习这个或
-那个，但MBA学生知道确切的原因。大学生想知道如何在现实世界中使用这些知识，但MBA学生却
-想知道。
+Working experience is important because, `first of all`, students with experiences will have clearer targets of what they want to learn during their study. For example, a student with a technical background will focus on the learning of economic and managerial knowledge. 
+工作经验很重要，因为首先，有工作经验的学生在学习过程中会对他们想要学习的东西有更明确的目标。例如，一个有技术背景的学生将重点学习经济和管理知识。
+`Secondly`, students with work experience will choose to look at and analyze problems in a different way. A college student wonders why he has to learn this or that, but a MBA student knows exactly why. A college student wonders how to use the knowledge in real world, but a MBA student does. 
+其次，有工作经验的学生会选择用不同的方式看待和分析问题。大学生想知道他为什么要学习这个或那个，但MBA学生知道确切的原因。大学生想知道如何在现实世界中使用这些知识，但MBA学生却想知道。
 **So working experience serves as a guide in MBA study.**  
 所以工作经验是MBA学习的指导。 
 
@@ -453,51 +397,19 @@ MBA student does.
 
 There is no doubt that English is very very important in MBA study. 
 毫无疑问，英语在MBA学习中是非常非常重要的。 
-To begin with, almost all of the modern economic and management theory is coming from 
-the developed English speaking countries. If we better master this language, we will not 
-only feel easier to learn the knowledge, but will also much more deeply understand them. 
+To begin with, almost all of the modern economic and management theory is coming from the developed English speaking countries. If we better master this language, we will not only feel easier to learn the knowledge, but will also much more deeply understand them. 
+首先，几乎所有的现代经济和管理理论都来自发达的英语国家。如果我们更好地掌握了这⻔语言，我们不仅会感到更容易学习知识，也会更深入地理解他们。
+Secondly, MBA students usually have classes given by foreign teachers. What's more, students with better English ability will have more opportunities to be selected as exchange student to other countries for academic activities. 
+其次，MBA学生通常有外教授课。更重要的是，英语能力较好的学生将有更多的机会被选为交换学生到其他国家进行学术活动。
+Lastly, students with good English will be more likely to find better jobs with higher salary after graduation. As we know, most of the top international companies usually have high requirements of English proficiency. 
+最后，英语好的学生毕业后更有可能找到薪水更高的好工作。我们知道，大多数顶级的国际公司通常对英语水平有很高的要求。MBA 毕业后一定会找到更好的工作吗？  
 
- 
-
-### 首先，几乎所有的现代经济和管理理论都来自发达的英语国家。如果我们更好地掌握了这⻔语言，我
-
-### 们不仅会感到更容易学习知识，也会更深入地理解他们。
-
-```
-Secondly, MBA students usually have classes given by foreign teachers. What's more, 
-students with better English ability will have more opportunities to be selected as exchange 
-student to other countries for academic activities. 
-```
- 
-
-### 其次，MBA学生通常有外教授课。更重要的是，英语能力较好的学生将有更多的机会被选为交换学
-
-### 生到其他国家进行学术活动。
-
-```
-Lastly, students with good English will be more likely to find better jobs with higher salary 
-after graduation. As we know, most of the top international companies usually have high 
-requirements of English proficiency. 
-```
- 
-
-### 最后，英语好的学生毕业后更有可能找到薪水更高的好工作。我们知道，大多数顶级的国际公司通常
-
-### 对英语水平有很高的要求。
-
-## MBA 毕业后一定会找到更好的工作吗？  
-
-**First of all, I want to make sure that I apply for MBA not because I expect to find a better 
-job.**  
+**First of all, I want to make sure that I apply for MBA not because I expect to find a better job.**  
 首先，我想确定我申请MBA不是为了找一份更好的工作。 
-**The real reason for my application is that** I desire to improve my management knowledge 
-and other related skills during these 2 years.
+**The real reason for my application is that** I desire to improve my management knowledge and other related skills during these 2 years.
 我申请的真正原因是我想在这两年里提高自己的管理知识和其他相关技能，
-**What's more, it's not easy to say if we can find better jobs or not.** Finding a job is a mutual 
-choice, with companies opening positions and looking for the qualified candidates, and with 
-students making detailed self-assessment and trying to find the best employers. 
-更重要的是，很难说我们是否能找到更好的工作。找工作是一种相互选择，公司会开放职位，寻找合
-格的候选人，学生们会进行详细的自我评估，努力找到最好的雇主。
+**What's more, it's not easy to say if we can find better jobs or not.** Finding a job is a mutual choice, with companies opening positions and looking for the qualified candidates, and with students making detailed self-assessment and trying to find the best employers. 
+更重要的是，很难说我们是否能找到更好的工作。找工作是一种相互选择，公司会开放职位，寻找合格的候选人，学生们会进行详细的自我评估，努力找到最好的雇主。
 Better job is obtained only if these two demands are perfectly matched. 
 只有当这两个要求完全匹配时，才能得到更好的工作。
 
@@ -506,24 +418,20 @@ Last, the job market is always changing, according to the overall well-being of 
 最后，就业市场总是随着整体经济状况的变化而变化。
 If the entire business is good, the demand for MBA will also increase, and vice versa. 
 如果整个行业都很好，对MBA的需求也会增加，反之亦然。 
-Anyway, my point is that: **when you are improving the right things at the right time, there 
-will always be right positions for you right after your graduation.**  
+Anyway, my point is that: **when you are improving the right things at the right time, there will always be right positions for you right after your graduation.**  
 无论如何，我的观点是:当你在正确的时间做正确的事情时，毕业后总会有合适的职位适合你。 
 
 ## 如果面试失败,你会如何？fail  
-
 **A: What if you fail this time? 如果你这次失败了怎么办?**  
 B: Possible but ready. 但是准备好了。 
 **A: How are you going to feel? 你会有什么感觉?**  
-B: I will be sad. I've been waiting so long for this moment to come, and I've been making so 
-many efforts to prepare for this. 我会伤心的。为了这一刻的到来，我已经等了很久，我已经做了很
-多努力来准备这一刻。
+B: I will be sad. I've been waiting so long for this moment to come, and I've been making so many efforts to prepare for this. 
+我会伤心的。为了这一刻的到来，我已经等了很久，我已经做了很多努力来准备这一刻。
 A: **But 40% of those who take interview today are going to be sad, so why not you?**  
 但今天参加面试的人中有40%会感到悲伤，为什么你不会呢? 
 B: Yes, that's the story, there are a lot of outstanding mates waiting outside, so why not me? 
 是的，就是这个故事，外面有很多优秀的朋友，为什么不是我呢? 
-**Actually, I think I have tried my best, and I'm trying my best in this interview, and I'm**  
-**confident I will stand out, though it's possible I will not.**  
+**Actually, I think I have tried my best, and I'm trying my best in this interview, and I'm confident I will stand out, though it's possible I will not.**  
 事实上，我想我已经尽力了，这次面试我也在尽力，我相信我会脱颖而出，尽管我可能不会。
 
 ## 结束语  
@@ -532,35 +440,13 @@ If I would be luckily admitted, I would devote all myself to study and practice.
 如果我有幸被录取，我会全身心地投入到学习和实践中。谢谢你！
 I would be very honored if you could grant me the opportunity to study in this university. 
 That's all about my self introduction. Thank you！  
-如果您能给我这个机会来贵校学习，我将非常荣幸。以上就是我的自我介绍。谢谢你！
+如果您能给我这个机会来贵校学习，我将非常荣幸。
+以上就是我的自我介绍。谢谢你！
 
 
 
 
 
-## PC端
- <!-- 在线显示PDF -->
- <!-- 第一种方式，可调整pdf显示的大小，比较灵活 -->
- <embed src="./2022_pre_review.pdf" width="100%" height="750" type="application/pdf"/>
-
-
-## 手机端
-<iframe width="100%" scrolling=no height="800" frameborder="0" src="./2022_pre_review.pdf"></iframe>
-```
- <!-- 手机端在线显示PDF -->
- <iframe src="./2022_pre_review.pdf" width="100%" height="750" type="application/pdf">
-
- <!-- 第一种方式，可调整pdf显示的大小，比较灵活 -->
- <embed src="./2022_pre_review.pdf" width="100%" height="750" type="application/pdf">
-
- <!-- 第二种方式 -->
- {% pdf ./2022_pre_review.pdf %}
- 
- {% pdf /pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf %}
-
- <!-- 第三种方式 -->
- <object data="./2022_pre_review.pdf" type="application/pdf" width="100%" height="777px"/>
-```
 ## 公司文化
 ![](/2ae45808-483d-4cda-9506-41bde5571b7b.png)
 
@@ -607,3 +493,27 @@ That's all about my self introduction. Thank you！
   数年如一日的坚持，把寂寞当成自己的朋友，把失败当作学习的课程，坚持是一种顽强的意志， 是一种自我的修行。伟大的成功，很多都是熬出来的。
 
 
+
+## PC端
+ <!-- 在线显示PDF -->
+ <!-- 第一种方式，可调整pdf显示的大小，比较灵活 -->
+ <embed src="./2022_pre_review.pdf" width="100%" height="750" type="application/pdf"/>
+
+
+## 手机端
+<iframe width="100%" scrolling=no height="800" frameborder="0" src="./2022_pre_review.pdf"></iframe>
+```
+ <!-- 手机端在线显示PDF -->
+ <iframe src="./2022_pre_review.pdf" width="100%" height="750" type="application/pdf">
+
+ <!-- 第一种方式，可调整pdf显示的大小，比较灵活 -->
+ <embed src="./2022_pre_review.pdf" width="100%" height="750" type="application/pdf">
+
+ <!-- 第二种方式 -->
+ {% pdf ./2022_pre_review.pdf %}
+ 
+ {% pdf /pdf/2020考研MBA提前面试必修课—英语口语面试技巧.pdf %}
+
+ <!-- 第三种方式 -->
+ <object data="./2022_pre_review.pdf" type="application/pdf" width="100%" height="777px"/>
+```
