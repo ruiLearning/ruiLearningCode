@@ -77,11 +77,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/ruiruilaile_cycle.png
+favicon: /img/ruiruilaile_cycle120X120.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/ruiruilaile_cycle.png
+  img: /img/ruiruilaile_cycle120X120.png
   effect: false
 
 # Disable all banner image
@@ -506,7 +506,7 @@ enter_transitions: true
 # canvas_ribbon (靜止彩帶背景)
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: true
+  enable: false
   size: 150
   alpha: 0.6
   zIndex: -1
@@ -545,18 +545,18 @@ fireworks:
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
   enable: false
-  mobile: true
+  mobile: false
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: true
+  enable: false
   text:
     - Rui
     - Learn
     - Happy
   fontSize: 15px
   random: false
-  mobile: true
+  mobile: false
 
 # Default display mode (網站默認的顯示模式)
 # light (default) / dark

@@ -154,22 +154,22 @@ Markdown是一种纯文本格式的标记语言。通过简单的标记语法，
 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
 ```
-![芮芮来了 图标](https://ruilearning.github.io/img/ruiruilaile_cycle.png "芮芮来了")
+![芮芮来了 图标](https://ruilearning.github.io/img/ruiruilaile_cycle120X120.png "芮芮来了")
 
 这个链接用 1 作为网址变量 [芮芮来了][1].
 然后在文档的结尾为变量赋值（网址）
 
-[1]: https://ruilearning.github.io/img/ruiruilaile_cycle.png
-<img src="https://ruilearning.github.io/img/ruiruilaile_cycle.png" width="20%">
+[1]: https://ruilearning.github.io/img/ruiruilaile_cycle120X120.png
+<img src="https://ruilearning.github.io/img/ruiruilaile_cycle120X120.png" width="20%">
 ```
-![芮芮来了 图标](https://ruilearning.github.io/img/ruiruilaile_cycle.png "芮芮来了")
+![芮芮来了 图标](https://ruilearning.github.io/img/ruiruilaile_cycle120X120.png "芮芮来了")
 
 这个链接用 1 作为网址变量 [芮芮来了][1].
 然后在文档的结尾为变量赋值（网址）
 
-[1]: https://ruilearning.github.io/img/ruiruilaile_cycle.png
+[1]: https://ruilearning.github.io/img/ruiruilaile_cycle120X120.png
 
-<img src="https://ruilearning.github.io/img/ruiruilaile_cycle.png" width="20%">
+<img src="https://ruilearning.github.io/img/ruiruilaile_cycle120X120.png" width="20%">
 ```
 
 [超链接名](超链接地址 "超链接title")
