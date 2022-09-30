@@ -116,7 +116,7 @@ error_404:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:ruiLearning/ruiLearningCode.git
+  repo: git@github.com:ruiLearning/ruiLearning.github.io.git
   #repo: git@github.com:ruiLearning/ruiLearning.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
