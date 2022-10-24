@@ -22,6 +22,7 @@ $
 \not=
 \not>
 \not\subset
+\approx
 $
 
 $h^2$
@@ -43,6 +44,10 @@ $\binom{n+1}{2k}$
 $\sqrt[4]{\frac xy}$
 
 $\sqrt {a+b}$
+
+$|𝑥+𝑦|$
+
+$n\geq 2$
 
 一元二次方程求根公式：$\dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $
 
@@ -66,6 +71,14 @@ a_3x+b_3y+c_3z=d_3
 $
 
 ```
+\because
+\therefore
+\forall
+\exists
+\not=
+\not>
+\not\subset
+\approx
 $h^2$
 $C_n^2$
 $\{a\*b\}: $
@@ -84,6 +97,10 @@ $\binom{n+1}{2k}$
 $\sqrt[4]{\frac xy}$
 
 $\sqrt {a+b}$
+
+$|𝑥+𝑦|$
+
+$n\geq 2$
 
 一元二次方程求根公式：$\dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $
 
