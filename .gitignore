@@ -4,4 +4,11 @@
 /db.json
 /source/.DS_Store
 /source/_posts/.DS_Store
-## 普通动图写法
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml

@@ -154,3 +154,7 @@ live2d:
 aplayer:
   meting: true
   asset_inject: false
+
+auto_category:
+  enable: true
+  depth:
