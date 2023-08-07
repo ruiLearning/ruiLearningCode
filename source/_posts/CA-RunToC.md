@@ -22,21 +22,87 @@ date: 2023-07-31 15:24:11
 8. 安省 渥村
 9. WES学历认证 EE打分用
 10. 银行 rbc cibc推荐
+11. computer programming
+12. 
 
 
 
-## 学校
-1. [Confederation College - Premier Education in Ontario, Canada](https://www.confederationcollege.ca/)
 
 ## DIY
 1. [从零开始DIY留学加拿大之——如何DIY申请学签 - YouTube](https://www.youtube.com/watch?v=7x-xpPabsVk&ab_channel=Clark-%E5%8A%A0%E6%9D%91%E7%94%9F%E6%B4%BBLifeintheGreatWhiteNorth)
 2. 我先出去拿到college offer,然后另一半申请配偶工签,然后小孩再过来
 3. 
 
-### URL
+## URL
+### 学校
+1. [Confederation College - Premier Education in Ontario, Canada](https://www.confederationcollege.ca/)
+2. [Computer Programming - Seneca Polytechnic, Toronto, Canada](https://www.senecacollege.ca/programs/fulltime/CPP.html)
+3. [Algonquin College](https://www.algonquincollege.com/)
+
+### 政策
 1. 加拿大政府官方网站 [Canada.ca](https://www.canada.ca/)
 2. GeoMatch [GeoMatch - Immigration Policy Lab](https://immigrationlab.org/geomatch/)
-3. newyouth.ca [Home | New Youth](https://newyouth.ca/en)
+3. [EE](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
+4. newyouth.ca [Home | New Youth](https://newyouth.ca/en)
+5. 搜学校和专业的网站：[Find programs and costs for international students in Canada](https://www.educanada.ca/programs-programmes/index.aspx?lang=eng)
+6. 安省政府网站：[OINP Employer Job Offer: International Student stream | ontario.ca](https://www.ontario.ca/page/oinp-employer-job-offer-international-student-stream)
+7. 加拿大政府官网查询学校信息：[Site Unreachable](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html)
+8. [SAIT - the Southern Alberta Institute of Technology](https://www.sait.ca/)
+9. NOC https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=314243
+10. [Immitracker](https://myimmitracker.com/en/ca/trackers/consolidated-e-apr-tracker-express-entry-permanent-residency-application)
+
+
+### 租房
+1. [Zumper - Houses, Condos, and Apartments for Rent](https://www.zumper.com/)
+
+### 工作
+1. [https://www.applyboard.com/](https://www.applyboard.com/)
+2. [https://www.jobbank.gc.ca/home](https://www.jobbank.gc.ca/home)
+3. indeed [Job Search Canada | Indeed](https://ca.indeed.com/)
+4. [领英: 登录或注册](https://www.linkedin.com/)
+
+### 机票
+1. [旅行预订网站：特价酒店预订，机票查询，自游行网上优惠 | Expedia.com](https://www.expedia.com/cn/?pwaLob=wizard-lx-pwa)
+2. [【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票](https://flights.ctrip.com/online/channel/domestic?allianceid=4899&sid=155997&utm_medium=google&utm_campaign=pp&utm_source=googleppc&gclid=Cj0KCQjwpPKiBhDvARIsACn-gzCoJefvQ_kII3NkFQC8MQsUfa4Yg8wLGFRJozjAmR0Ov33nI7sEmYQaAt7BEALw_wcB&gclsrc=aw.ds&keywordid=2642337343-70570537617)
+
+### 生活
+1. 信用卡 返现 [Scotia Momentum Visa Infinite Card | Scotiabank Canada](https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html)
+2. 购物卡 返现
+3. 买菜折扣app Flipp
+4. 二手 kijiji 
+5. 亚马逊warehouse
+6. 学生优惠 student discount
+7. 加拿大省钱快报
+8. 加拿大华人超市网购链接 大统华 :https://www.tntsupermarket.com/chs/ 
+9. 沃尔玛网购链接:https://www.walmart.ca/en
+10. 加拿大一元店链接:https://www.dollarama.com/en-CA/
+11. 租房网站：[https://rentals.ca/](https://rentals.ca/)
+12. 找工作网站：[https://ca.indeed.com/](https://ca.indeed.com/)
+13. Costco：[https://www.costco.ca/](https://www.costco.ca/)
+14. save on food（中档食物）：https://www.saveonfoods.com/sm/pickup/rsid/1982/
+15. 网课平台Udemy [在线课程 - 时间自由，学您想学 | Udemy](https://www.udemy.com/)
+16. 银行 [Everyday Banking | EQ Bank](https://www.eqbank.ca/) 
+17.  开源之兼职+退税
+
+### 论坛
+### 其它
+1. [Reddit - Dive into anything](https://www.reddit.com/)
+2. [List of the largest population centres in Canada - Wikipedia](https://en.wikipedia.org/wiki/List_of_the_largest_population_centres_in_Canada)
+3. www.canada.ca/en/immigration-refugees-citizenship.html 
+4. www.canadavisa.com/canada-immigration-discussion-board 
+5. myimmitracker.com/en/ca/trackers/consolidated-e-apr-tracker-express-entry-permanent-residency-application
+
+### Reference
+1. [Clark - 加村生活 Life in the Great White North - YouTube](https://www.youtube.com/@clark2022)
+2. [Superior Canada 潘老师聊加拿大 - YouTube](https://www.youtube.com/@SuperiorLife)
+3. [陈永仁 - YouTube](https://www.youtube.com/channel/UCoQ2yLuQbpE6sd1E-5aE6tA)
+4. [加拿大留学移民DIY – created by @陈永仁](https://runtocanada.com/)
+5. [56BelowTV 零下56 - YouTube](https://www.youtube.com/channel/UCSX99Rvq5dszj6rzAPkdglA)
+6. [跑路联盟，可以互相交流分享跑路的经验。](https://www.reddit.com/r/iwanttorun/)
+7. [Max\_Medyk的个人空间-Max\_Medyk个人主页-哔哩哔哩视频](https://space.bilibili.com/698579804)
+8. [加拿大移民 |普通移民行不通，想旅游签转学签，工签？不符合这四个条件，上帝都没办法](https://www.youtube.com/watch?v=9LDn-9MFOYY&ab_channel=56BelowTV%E9%9B%B6%E4%B8%8B56)
+9. [加拿大留学\_北美留学|申请经验|offer总结|院校排名|租房](https://bbs.gter.net/forum-canada-1.html)
+10. 
 
 
 ## GIC
@@ -107,16 +173,7 @@ date: 2023-07-31 15:24:11
 
 
 
-## 生活
-1. 加拿大华人超市网购链接 大统华 :https://www.tntsupermarket.com/chs/ 
-2. 沃尔玛网购链接:https://www.walmart.ca/en
-3. 加拿大一元店链接:https://www.dollarama.com/en-CA/
-4. 租房网站：[https://rentals.ca/](https://rentals.ca/)
-5. 找工作网站：[https://ca.indeed.com/](https://ca.indeed.com/)
-6. Costco：[https://www.costco.ca/](https://www.costco.ca/)
-7. save on food（中档食物）：https://www.saveonfoods.com/sm/pickup/rsid/1982/
-
-
+## 举例 
 我们以低挡为例
 
 - 吃和用
@@ -175,27 +232,6 @@ date: 2023-07-31 15:24:11
 取个均值6000加币，四个学期就是24000加币学费+9600加币的生活费，以现在的汇率计算在17.5万左右
 
 加上杂七杂八的费用合计20万上下
-# Reference
-1. [Clark - 加村生活 Life in the Great White North - YouTube](https://www.youtube.com/@clark2022)
-2. [Superior Canada 潘老师聊加拿大 - YouTube](https://www.youtube.com/@SuperiorLife)
-3. [陈永仁 - YouTube](https://www.youtube.com/channel/UCoQ2yLuQbpE6sd1E-5aE6tA)
-4. [加拿大留学移民DIY – created by @陈永仁](https://runtocanada.com/)
-5. [56BelowTV 零下56 - YouTube](https://www.youtube.com/channel/UCSX99Rvq5dszj6rzAPkdglA)
-6. [SAIT - the Southern Alberta Institute of Technology](https://www.sait.ca/)
-7. 搜学校和专业的网站：[Find programs and costs for international students in Canada](https://www.educanada.ca/programs-programmes/index.aspx?lang=eng)
-8. 安省政府网站：[OINP Employer Job Offer: International Student stream | ontario.ca](https://www.ontario.ca/page/oinp-employer-job-offer-international-student-stream)
-9. 加拿大政府官网查询学校信息：[Site Unreachable](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html)
-10. [跑路联盟，可以互相交流分享跑路的经验。](https://www.reddit.com/r/iwanttorun/)
-11. [Max\_Medyk的个人空间-Max\_Medyk个人主页-哔哩哔哩视频](https://space.bilibili.com/698579804)
-12. [加拿大移民 |普通移民行不通，想旅游签转学签，工签？不符合这四个条件，上帝都没办法](https://www.youtube.com/watch?v=9LDn-9MFOYY&ab_channel=56BelowTV%E9%9B%B6%E4%B8%8B56)
-13. [加拿大留学\_北美留学|申请经验|offer总结|院校排名|租房](https://bbs.gter.net/forum-canada-1.html)
-14. NOC https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=314243
-15. 
-
-# Work
-1. [https://www.applyboard.com/](https://www.applyboard.com/)
-2. [https://www.jobbank.gc.ca/home](https://www.jobbank.gc.ca/home)
-3. indeed [Job Search Canada | Indeed](https://ca.indeed.com/)
 
 
 # 其它
@@ -239,7 +275,7 @@ date: 2023-07-31 15:24:11
 	3. 草原三省
 		1. 萨斯喀彻温省移民提名计划 (SINP)
 		2. 艾伯塔省移民提名计划 (AINP)
-		3. 曼尼托巴省提名计划 (MPNP)
+		3. 曼尼托巴省提名计划 (MPNP) 
 	4. 海洋四省
 		1. 纽芬兰和拉布拉多省提名计划 (NLPNP)
 		2. 新不伦瑞克省提名计划 (NBPNP)
@@ -251,8 +287,10 @@ date: 2023-07-31 15:24:11
 - 雇主担保
 - 安省EE技工技术移民
 - LMIA工作签证
+- 曼省(或着其他)小镇可以提供移民机会 但是需要工作2年左右 
 - EE
 	-  [【2023 更新】关于加拿大EE移民的一切 | EE快速通道移民 | Express Entry移民史上最全 | 钱小移记](https://qianxiaoyi.com/canada-ee-immigration/)
 	- [加拿大移民ee打分算分系统 - Express Entry 分数计算器 | 加拿大DreamOffer - 多伦多大学MBA团队创立的加拿大留学中介&雅思培训](https://www.dreamoffer.ca/ee-calculator)
 ![image.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308021745613.png)
 ![4b1d93_a2a222eb71dd44ccb063b07f348fb287~mv2.webp](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308031418510.webp)
+

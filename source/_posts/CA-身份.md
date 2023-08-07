@@ -14,3 +14,13 @@ date: 2023-07-31 15:24:11
 3. 5w、10w办一个(发达国家 西班牙、马来西亚、葡萄牙、迪拜、阿联酋)永居身份 
 4. 探亲名义就可以出来
 5. 
+
+
+# CA
+## Alberta 阿尔伯塔省
+[Government of Alberta | Alberta.ca](https://www.alberta.ca/index.aspx)
+1. AOS 
+2. AEE
+
+
+
