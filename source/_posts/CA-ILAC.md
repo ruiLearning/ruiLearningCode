@@ -18,3 +18,4 @@ date: 2023-07-31 15:24:11
 1. 适用学校 [Pathway | ILAC](https://www.ilac.com/pathway/)
 2. 19+课程说明，衔接课程 [University Pathway Program | ILAC](https://www.ilac.com/pathway-programs-adult/)
 3. ILAC 开始时间 [Start Dates | ILAC](https://www.ilac.com/start-dates/)
+4. [# ILAC课程详细介绍](https://mp.weixin.qq.com/s/mkDL1DQYlGcNAbkhwsOWhA)

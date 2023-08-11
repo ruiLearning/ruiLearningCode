@@ -38,6 +38,7 @@ date: 2023-07-31 15:24:11
 1. [Confederation College - Premier Education in Ontario, Canada](https://www.confederationcollege.ca/)
 2. [Computer Programming - Seneca Polytechnic, Toronto, Canada](https://www.senecacollege.ca/programs/fulltime/CPP.html)
 3. [Algonquin College](https://www.algonquincollege.com/)
+4. [SAIT - the Southern Alberta Institute of Technology](https://www.sait.ca/)
 
 ### 政策
 1. 加拿大政府官方网站 [Canada.ca](https://www.canada.ca/)
@@ -47,9 +48,8 @@ date: 2023-07-31 15:24:11
 5. 搜学校和专业的网站：[Find programs and costs for international students in Canada](https://www.educanada.ca/programs-programmes/index.aspx?lang=eng)
 6. 安省政府网站：[OINP Employer Job Offer: International Student stream | ontario.ca](https://www.ontario.ca/page/oinp-employer-job-offer-international-student-stream)
 7. 加拿大政府官网查询学校信息：[Site Unreachable](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html)
-8. [SAIT - the Southern Alberta Institute of Technology](https://www.sait.ca/)
-9. NOC https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=314243
-10. [Immitracker](https://myimmitracker.com/en/ca/trackers/consolidated-e-apr-tracker-express-entry-permanent-residency-application)
+8. NOC https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=314243
+9. [Immitracker](https://myimmitracker.com/en/ca/trackers/consolidated-e-apr-tracker-express-entry-permanent-residency-application)
 
 
 ### 租房
@@ -182,7 +182,7 @@ date: 2023-07-31 15:24:11
 根据自己的消费计算，自己一个月要买的菜。
 以我的饭量我自己粗算为，最低食品摄入保证是12加币/天。（我饭量比较小） 洗发水，沐浴露全部去DOLLARMA购买，比如dollarma有三合一沐浴露，售价为3.5加币/1L
 牙刷牙膏自己计算。
-此外所有上述价格需要*1.15，因为存在消费税
+此外所有上述价格需要x1.15，因为存在消费税
 
 - 住宿
 住宿推荐第一年找华人网站
