@@ -9,7 +9,137 @@ toc: true
 date: 2023-08-08 15:24:11
 ---
 
+# 说明
+
+![WX20230815-142938.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308151434387.png)
+
+![WX20230815-142938.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308151434492.png)
+
+
+# 词汇与语法
+做这个题型只要记住我的一句口诀：`看选项定考点，看题目找关键`。
+
+## 第一：高频的语法知识点
+
+时态、语态、虚拟语气、倒装句等等。这部分分数是绝对不能丢的。
+
+比如语态，你只需要是主动还是被动关系即可。
+
+### 例题1
+1. ___  by a car , the poor man was unconscious for three days. (2021.)
+A.Hitting B. Having hit C. Hit D. He was hit
+
+#### 看选项定考点
+我们可以看到第一题中有出现 doing done 以及having done就说明是考的`语态`，这里我们再讲一下。
+A选项一个是doing , B选项是having done，C选项是done。
+done 是表示过去分词，我们知道hit 这个词，动词、过去式、以及过去分词都是它本身。
+
+#### 看题目找关键
+这里就是我们的考试技巧了，当考语态的时候，核心看句子的主语与空格的主动与被动关系。
+`主动用doing` , `被动用 done`。
+
+> 那问题来了`句子的主语`我们该如何区分呢？
+如果一个句子没有逗号的话，一般主语在句子的开头，也就是第一个词。
+如果一个句子有逗号的话，那句子的主语在逗号后的另一个词
+
+第一题，其实是有逗号的，所以真正的主语是逗号后面的第一个词，也就是 the poor man ，一个穷困的男人。空格是 hit 打、撞击的意思。
+所以我们知道人是被车撞击，所以是被动的关系。
+
+### 例题2
+
+2. ___ , I can see that those terrible events shaped me into the person I am today . (2020.)
+A. Having looked back B. Looking back C.Looked  back D.To be looking  back
+
+第二题这个学位英语真题你的答案是不是可以立刻出来，我们根本不需要知道所有单词的意思，只需要了解其中的考试技巧，快速圈出关键词，就可以五秒选出答案。
+
+#### 看选项定考点
+A选项是 having done ，B 选项是doing，C选项是过去式 , 所以说明是考的`语态`。
+
+#### 看题目找关键
+由于有逗号，所以真正的主语是在逗号后面，也就是I。
+而空格是look back 回首过去，我们知道人是主动回首过去的，所以是主动关系 doing, 所以选择 B 选项。
+所以我们发现没有，其实单选题并不是很难，我们只需要了解这些考试技巧，很容易五秒做题，跟着节奏走，能让你得分 ！
+
+## 第二：固定搭配
+[成人学士学位英语 常用词组 固定搭配 580组 提炼速记 中英男女双声版\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Jv4y1P7pr/?vd_source=051c6ac54ee45ff3787e470fbb65e9a9)
+[学士学位英语常考固定搭配\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1AY4y1T712/?vd_source=051c6ac54ee45ff3787e470fbb65e9a9)
+
+## 第三：词性辨析
+词性辨析主要是三大点，动词辨析、名词辨析以及连词辨析，这部分其实没有什么好讲解的，就是一个题目给你四个动词或者四个名词，你看哪个选项更加符合题意。
+
+### say / talk / speak / tell 
+【辨析】 
+say 后面要跟说话的具体内容; 
+talk 表示和某人交谈,常用搭配为 talk with / to sb ., talk about sth .; 
+speak 后面跟表示某种语言的名词; 
+tell 意为告诉,常用搭配为 tell sb . sth ., tell sth . to sb ., tell sb .( not ) to do sth .。
+
+ I say this without vanity .(我这样说并不是虚夸。)
+ I have something to talk with you .(我有点儿事要和你谈一谈。)
+ French and English are spoken here .(这里通用法语和英语。)
+ He has told me about the new colleague .(他已经向我告知新同事的情况。)
+
+### worth / worthy / worthwhile / valuable
+【辨析】 
+worth 多做表语用,指某一用途有特殊价值的或拥有财产的; 
+worthy 指有价值的、配得上的、与……相符相称的,一般作表语; 
+worthwhile 指值得花时间去研究或付诸实施的,可做表语和定语; 
+valuable 指某物具有实用性方面、交换方面或其他方面的价值,意即有价值的、贵重的,可做表语和定语。
+常考搭配：
+be worth doing
+= be worthy of being done
+= be worthy to be done. 
+例句：这本书值得一读
+This is a worthwhile book. 
+=  This is a worthy book. 
+= This book is worth leading. 
+= This book is worthy of being read. 
+= This book is worthy to be read. ）。
+
+ The stamp is not worth collecting .(这张邮票不值得收藏。)
+ The book is well worthy of his reputation .(这本书完全配得上他的声望。)
+ It might be worthwhile to consider your attitude to the insurance policy .(花点时间考虑考虑你对这种保险单的态度是很值得的。)
+ The geological prospecting team ranged over the desert in search of valuable deposits of oil .(地质勘探队走遍了这片沙漠,寻找有开采价值的油层。)
+ 
+
+### spend /pay / cost /take 
+【辨析】四个词都可以表示“花费……”之意,但用法各有不同。
+
+ spend 以人作主语,构成 spend + some money / time+on sth ./( in ) doing sth .,表示“某人花费了金钱/时间在某事上(或者做某事)”。
+ pay 以人作主语,构成 pay some money for sth .,多表示“花费金钱”,少与时间搭配。
+ cost 以物作主语,构成 cost sb . some money / time ,表示“某物花费了某人金钱/时间”。
+ take 通常构成 it 为形式主语的句式,即 it takes + sb .+ some money / time to do sth .,表示“做某事花费了某人金钱/时间”。
+ 
+我花25美元买5本书。
+I spend 25 dollars on five books .
+I pay 25 dollars for five books .
+The five books cost me 25 dollars.
+It takes me 25 dollars to buy five books .
+
+### seat/ room/ place /space 
+【辨析】四个词都可以表示“空间”之意。具体区别如下 
+
+seat 意思是“座位”,可数名词。 
+room 意思是“空间”,不可数名词。 
+place 作“地方”之意时,是可数名词,作“空间”之意时,是不可数名词。 
+space 表示“空间”之意时,可强调空地或空旷的开阔地带。
+
+You can take my seat since you have a baby .你带着孩子,坐我的座位吧。
+The piano takes up too much room in my house .这架钢琴在我家占据了太多空间
+This is a wonderful place to have a picnic .这是野餐的好地方。
+The world exists in space and time .世界存在于时空之中。
+
+
+--- 
+
+
+
+
+
 # 阅读
+其实这部分分数也很好拿，很多人都觉得一定要将阅读的每个字都看懂才能做对题目，其实是不对的，对于学位英语考试来说，要求没有那么高，`你只需要将题目的对应句到原文中去找即可`。
+
+唯一可以错的就是最后一题，一般是主旨题，让你说出这个文章的核心思想，或者让你给这篇文章取个名字，其他的都是细节题。
 ## 方法
 1. 1篇10分钟，4分钟看文章，6分钟做题. 
 2. `阅读实义动词是重点`. 
@@ -34,7 +164,7 @@ date: 2023-08-08 15:24:11
 4. `比较选项，确定答案`. 
 	1. 定位原文，在原文中找到题目的出处后，要在理解原文句子的基础上，再次回到问题上来. 把原文与选项做一下对比，看哪一个选项与原文中的意想是相对应的，然后根据题目要求选出答案. 
 
-
+--- 
 
 # 单词
 ## 词性转换
@@ -233,9 +363,43 @@ date: 2023-08-08 15:24:11
 20. in charge 负责、看管, in charge of 负责, in the charge of被管理 被动
 21. 
 
+
+--- 
 # 翻译
 1. 语序调整
 2. 先说结果
+
+
+### 真题
+#### 2010
+- 我们知道肺癌至少部分地是由于吸烟引起的。
+	- We know that the lung cancer is at least partially cause by over-smoking.
+- 很明显，他对整个事件的陈述与事实不符。
+	- It's evident that what he stated about the event is not consistent with the truith.
+- 你应该充分利用这次出国机会好好学匀。
+	- You should take full advantage of this opportunity of going abroad and.study hard.
+- 只要你坚持不懈地努力，你一定会攻克这个医学难题。
+	- You will overcome this medical problem if you persevere.
+- 政府正在采取各种措施来提高偏远山区人民的生活水平。
+	- The government is adopting various measures to improve the living standard of people who live in the remote mountain areas.
+
+#### 2011
+- 我真不知道到底是什么事让他如此生气。
+	- I really don't know what upset him so badly.
+- 会议室一个人都没有，会议一定是延期了。
+	- There is nobody In the meeting room. It must have been postponed.
+- 这个消息使她大为庭惊，但她很快就镇定了下来。
+	- She was shocked at the news, but before long, she calmed herself down.
+- 在压力下，他别无选择，只好辞职。
+	- Under the pressure. he had no choice but to resign
+- 如果你想学到一些东西，那你就应该自己參加到这项工作中去。
+	- You must involve yourself in the work if you want to learn something.
+
+
+
+
+
+### 其它
 
 1. 由于下大雨，到处都出现了交通拥堵. 
 2. 如果不能来开会，请告诉我. 
@@ -249,6 +413,8 @@ date: 2023-08-08 15:24:11
 4. I usually have bread and eggs for breakfast. 
 5. It is so noisy outside that I can't concentrate.
 
+--- 
+
 1. 这些人急需食物和水. 
 2. 我相信你是班上最棒的. 
 3. 玛丽一回来，我就会把信给她. 
@@ -260,6 +426,8 @@ date: 2023-08-08 15:24:11
 3. l will give the letter to Mary as soon as she comes back.
 4. `As is well known`, smoking is bad for health.
 5. Please tell me your decision after you consider it well.
+
+--- 
 
 1. 同学们都在忙着准备考试. 
 2. 你应该听老师的话. 
@@ -273,6 +441,8 @@ date: 2023-08-08 15:24:11
 4. Tom plays basketball every afternoon.
 5. Football is a sport that encourages kids to cooperate with each other.
 
+--- 
+
 1. 互联网在我们的生活中变得越来越重要了，
 2. 今天早上我没有赶上公共汽车. 
 3. 那个博物馆是s年前建造的. 
@@ -284,6 +454,8 @@ date: 2023-08-08 15:24:11
 3. The museum was built five years ago.
 4. Li Ming is reading a newspaper.
 5. Have you found the book you lost last week?
+
+--- 
 
 1. 不要放弃希望. 
 2. 我会去火车站接你. 
@@ -299,15 +471,42 @@ date: 2023-08-08 15:24:11
 
 
 
+--- 
 
 # 写作
-学会使用过渡词.
-例如:
-1. 递进:furthermore, moreover, besides, in addition, then...
-2. 转折:however, but, nevertheless, after all...
-3. 总结:finally, at last, in brief, to conclude...
-4. 强调:really, indeed, certainly, surely, above all...
-5. 对比:in the same way, just as, on the other hand.
+1. 议论文 题目已经给出 直接抄上就得分
+2. 书信格式 要正确，正确就能得3分
+	1. 左上角Dear xxx, 书信不需要题目，右下角Yours sincerely(开头s小写), 最后一行署名Li Ming(不带标点符号)
+	2. 格式如图![xzwgs.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308151522969.png)
+3. 三段论格式 议论文，书信都适用。
+	1. To begin with, 
+	2. Secondly,
+	3. Consequently, 
+4. There be 句型也好用
+
+## 真题
+### 2010
+Part V Writing (30 minutes, 20 points)
+
+Directions: For this part, yo are allowed 30 minutes to write a com position based on the topic: Advertising. You should write at-least 100 words and base your com position on the outline given below in Chinese.
+
+1. 有人说,广告使消费者更好地了解商品的性能和优越性,买到更满意的产品. 
+2. 有人说,广告片面李大商品的性能和优越性,误导消费者.
+3. 你的观点;如何解决广告的误导效应.
+
+Advertising
+
+### 2011
+Part V Writing (30 minutes, 20 points)
+Directions: For this part, you are allowed 30 minutes to write a com position based. on the
+
+topic: Ban or Lift the Ban of Firecrackers. You should write Qt least 100 words and base your composition on the outline given below in. Chinese.
+
+1. 有人认为燃放鞭炮贻害无穷,非禁不可.
+2. 有人认为不可因喳废食,应该开禁,允许燃放.
+3. 你的观点,如何解决这一争论.
+
+Ban or Lift the Ban of Firecrackers
 
 ## 类型
 ### 提纲类
@@ -345,7 +544,7 @@ date: 2023-08-08 15:24:11
 	2. 从几个方面展开分析说明。
 	3. 总结全文，发表倡议或提出建议。
 
-### 应用文
+### 应用文 
 1. 感谢信
 	1. 说明写信的目的，表达感谢。
 	2. 阐述感谢的原因。
@@ -359,7 +558,7 @@ date: 2023-08-08 15:24:11
 
 
 
-### 经典句式
+## 经典句式
 必背句型
 1. as is known /as it is known to all …众所周知
 2. with the pace of modern life increasing ….随着现代生活步伐的加快
@@ -380,12 +579,21 @@ date: 2023-08-08 15:24:11
 - The picture vividly portrays...
 
 
-### 199模版
+## 199模版
 [[199英语小作文模板]]
 [[199英语大作文模板]]
 
 
-### 模版
+## 模版材料
+#### 学会使用过渡词.
+例如:
+1. 递进:furthermore, moreover, besides, in addition, then...
+2. 转折:however, but, nevertheless, after all...
+3. 总结:finally, at last, in brief, to conclude...
+4. 强调:really, indeed, certainly, surely, above all...
+5. 对比:in the same way, just as, on the other hand.
+
+
 #### 必背句型
 1. as is known/as it is known to all…众所周知  
 2. with the pace of modern life increasing….随着现代生活步伐的加快  
@@ -400,7 +608,7 @@ date: 2023-08-08 15:24:11
 
 #### 英语作文速成模板
 
- **1）要求论述两个对立的观点并给出自己的看法。**  
+ 1）要求论述两个对立的观点并给出自己的看法。  
    
 The topic of（主题）is becoming more and more popular recently.There are two sides of opinions about it.Some people say A is their favorite.They hold their view for the reason of（支持A的理由一）What is more，理由二).Moreover，(理由三).  
    
@@ -408,7 +616,7 @@ While others think that B is a better choice in the following three reasons.Firs
    
 From my point of view，I think（我的观点）.The reason is that(原因).As a matter of fact，there are some other reasons to explain my choice.For me，the former is surely a wise choice.  
    
-**2）给出一个观点，要求考生反对这一观点**  
+2）给出一个观点，要求考生反对这一观点  
    
 Some people believe that观点一.For example，they think（举例说明）．And it will bring them(为他们带来的好处).  
    
@@ -416,7 +624,7 @@ In my opinion，I never think this reason can be the point.For one thing，(我�
    
 Form all what I have said，I agree to the thought that(我对文章所讨论主题的看法).  
    
-**3) 不同观点列举型（选择型）**  
+3) 不同观点列举型（选择型）  
    
 There is a widespread concern over the issue that(作文题目).But it is well known that the opinion concerning this hot topic varies from person to person.A majority of people think that(观点一).In their views there are 2 factors contributing to this attitude as follows：  
    
@@ -426,7 +634,7 @@ People，however，differ in their opinions on this matter.Some people hold the 
    
 Therefore，there is no doubt that(观点二).As far as I am concerned，I firmly support the view that(观点一或二).It is not only because(原因一)，but also because（原因二）.  
    
-**4）利弊型的议论文**  
+4）利弊型的议论文  
    
 Nowadays，there is a widespread concern over（作文题目）.In fact，there are both advantages and disadvantages in（题目议题）.Generally speaking，it is widely believed there are several positive aspects as follows.Firstly，（优点一）.And secondly（优点二）.  
    
@@ -436,7 +644,7 @@ In addition，（缺点二）.
    
 To sum up，we should try to bring the advantages of（讨论议题）into full play，and reduce the disadvantages to the minimum at the same time.In that case，we will definitely make a better use of the（讨论议题）.  
    
-**5) 答题性议论文**  
+5) 答题性议论文  
    
 Currently，there is a widespread concern over（作文题目—）.It is really an important concern to every one of us.As a result，we must spare no efforts to take some measures to solve this problem.  
    
@@ -445,3 +653,97 @@ As we know that there are many steps which can be taken to undo this problem.Fir
 Above all，to solve the problem of（作文题目），we should find a number of various ways.  
    
 But as far as I am concerned，I would prefer to solve the problem in this way，that is to say，（方法）.
+
+
+
+
+
+
+
+# 模版 三段论
+### 书信
+>`句首`⭐️Dear Smith,(逗号)
+>**第1段开头**，`I am writing this letter/email to …(实的部分) and to express…(虚的部分)`
+>`实的部分`
+	通知：inform you that xx
+	感谢：thank you for xx
+	投诉：complain about xx
+	推荐： offer some suggestions about xx
+	道歉：apologize to you for xx
+	邀请：invite you to xx
+	祝贺：congratulations to you on xx
+	咨询：inquire about xx
+	建议：recommend to you xx
+	介绍：introduce to you xx	
+> `虚的部分`
+> my sincerely apology/ my strong love for/my great interest in /congratulations on/ delight/welcome/disappointment/regret/dissatisfaction/thought/guilt
+>
+>**第2段**：`Specifically, my ideas with regard to this matter are as follows.`  
+		-  To begin with, xxx.
+		-  Secondly, xxx. 
+		-  Consequently, xxx
+>
+>**第3段**：`I am grateful for your time and patience. I am looking forward to your prompt response.` 
+>
+>`句尾` ⭐️ Yours sincerely, (小写，最后+逗号)
+>`句尾` ⭐️ Li Ming (不带标点符号)
+
+[书信格式](https://ruilearning.github.io/2022/08/18/18%E7%BB%83-16~18%E6%9C%80%E5%90%8E%E5%AD%A6%E5%B0%8F%E4%BD%9C%E6%96%87/)
+![xzwgs.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308151522969.png)
+
+
+
+
+
+### 议论文
+> **第一段**
+> 开头：Given is a… that clearly reveals the remarkable change in the statistics of…
+> 第二句：在 `时间1`到`时间2`的这段时间内，关于主题的`数字/比例`从`数字1/比例1` `上升/下降`了`数字2/比例2`
+The `number/percentage` of`主题` `climbed/declined` from`数字1/比例1`to`数字2/比例2` between`时间1`and`时间2`
+> 
+> **第二段**
+> If you look hard enough, you will find that【 】has a …impact on 【…】 .
+Two reasons can bear this out. The leading cause is that【 】，and it can account for【 】.
+Secondly, when it comes to【 】，it is well known that【 】. And it can boil down to【 】.
+Without doubt【 】 will exert a far-reaching/an undesirable/an unimaginable/ a disastrous effect on【 】.
+> 
+> **第三段**
+> Judging by what is discussed above, it is not difficult to draw the conclusion that【 】.
+What is to be done?
+Pretty much everyone agrees on the prescription that【 】.
+On the whole, I do believe that the problem of…is bound to be solved.
+
+
+#### 手机
+>For studying, a mobile phone is a mixed blessing. 
+All things considered,I hold the opinion that the benefits of a mobile phone justify the costs.
+When it comes to mobile phones, it is well known that they are an important learning tool in modern society.
+`To begin with(连接词)`, the leading cause is that there are many free learning applications on it, 
+and it can account for why mobile phones can help students study.
+`Meanwhile(连接词)`, mobile phones go some way towards acquiring knowledge at a fast clip. 
+`But(连接词)`, `there are too many games on the phone.(用短句子连接) `
+If we turn a blind eye to this issue, it is very likely that mobile phones will take up a lot of our study time.
+
+段落大意：
+对于学习来说，一部手机是喜忧参半的事情。 总的来说，我认为手机是利大于弊的。
+当提及手机时，众所周知，它们是现代社会重要的学习工具。
+首先，主要原因是它上面有很多免费的学习类应用，这能解释为什么手机能帮助学习。
+同时，手机有利于快速获取丰富的知识。
+但是，手机上有太多游戏了。如果我们对此问题熟视无睹，则很有可能使手机占用我们大量的学习时间。
+
+
+#### 健康饮食
+如果你观察的⾜够仔细，会发现健康饮⻝对我们的⼈⽣有深远影响。两点原因可以解释。⾸要原因是它可以让我们有更好的精⼒，⽽这能解释为什么精英⼈群更重视健康饮⻝。其次，当提及健康饮⻝时，众所周知的是我们应该减少脂肪和糖类的摄⼊。⽽这可以归结于那些由不健康的饮⻝⽅式导致的肥胖问题。毫⽆疑问，这将对个⼈健康产⽣不利的影响。
+根据以上所讨论的来判断，不难得出结论：我们应该重视健康饮⻝。应该怎么办呢？ 很多⼈都赞成这⼀⽅案：我们应当控制每顿饭的分量，不能暴饮暴⻝，多吃⽔果蔬菜以及⻥类。
+
+> If you look hard enough, you will find that a healthy diet has a profound impact on our lives. 
+> Two reasons can bear this out. 
+> The leading cause is that such a diet can make us have better energy，
+> and it can account for why the elite attach more importance to healthy eating. 
+> Secondly, when it comes to healthy eating，it is well known that we should reduce the intake of fats and sugars. 
+> And it can boil down to obesity caused by unhealthy diets.
+> Without doubt, this will exert an adverse effect on personal health.
+
+> Judging by what is discussed above, it is not difficult to draw the conclusion that we should lay emphasis on healthy eating.
+> What is to be done? 
+> Pretty much everyone agrees on the prescription that we should control the amount of each meal and do not eat and drink too much.

@@ -39,6 +39,7 @@ date: 2023-07-31 15:24:11
 2. [Computer Programming - Seneca Polytechnic, Toronto, Canada](https://www.senecacollege.ca/programs/fulltime/CPP.html)
 3. [Algonquin College](https://www.algonquincollege.com/)
 4. [SAIT - the Southern Alberta Institute of Technology](https://www.sait.ca/)
+5. [Tuition Fees for International Applicants - Seneca Polytechnic, Toronto, Canada](https://www.senecacollege.ca/international/fees/tuition.html)
 
 ### 政策
 1. 加拿大政府官方网站 [Canada.ca](https://www.canada.ca/)
