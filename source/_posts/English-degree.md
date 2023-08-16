@@ -17,7 +17,7 @@ date: 2023-08-08 15:24:11
 
 
 # 词汇与语法
-做这个题型只要记住我的一句口诀：`看选项定考点，看题目找关键`。
+做这个题型只要记住我的一句口诀：⭐️⭐️⭐️`看选项定考点，看题目找关键`。
 
 ## 第一：高频的语法知识点
 
@@ -67,7 +67,9 @@ A选项是 having done ，B 选项是doing，C选项是过去式 , 所以说明�
 ## 第三：词性辨析
 词性辨析主要是三大点，动词辨析、名词辨析以及连词辨析，这部分其实没有什么好讲解的，就是一个题目给你四个动词或者四个名词，你看哪个选项更加符合题意。
 
-### say / talk / speak / tell 
+
+### 常考词性辨析⭐️⭐️⭐️  
+#### say / talk / speak / tell 
 【辨析】 
 say 后面要跟说话的具体内容; 
 talk 表示和某人交谈,常用搭配为 talk with / to sb ., talk about sth .; 
@@ -79,7 +81,7 @@ tell 意为告诉,常用搭配为 tell sb . sth ., tell sth . to sb ., tell sb .
  French and English are spoken here .(这里通用法语和英语。)
  He has told me about the new colleague .(他已经向我告知新同事的情况。)
 
-### worth / worthy / worthwhile / valuable
+#### worth / worthy / worthwhile / valuable
 【辨析】 
 worth 多做表语用,指某一用途有特殊价值的或拥有财产的; 
 worthy 指有价值的、配得上的、与……相符相称的,一般作表语; 
@@ -102,7 +104,7 @@ This is a worthwhile book. 
  The geological prospecting team ranged over the desert in search of valuable deposits of oil .(地质勘探队走遍了这片沙漠,寻找有开采价值的油层。)
  
 
-### spend /pay / cost /take 
+#### spend /pay / cost /take 
 【辨析】四个词都可以表示“花费……”之意,但用法各有不同。
 
  spend 以人作主语,构成 spend + some money / time+on sth ./( in ) doing sth .,表示“某人花费了金钱/时间在某事上(或者做某事)”。
@@ -116,7 +118,7 @@ I pay 25 dollars for five books .
 The five books cost me 25 dollars.
 It takes me 25 dollars to buy five books .
 
-### seat/ room/ place /space 
+#### seat/ room/ place /space 
 【辨析】四个词都可以表示“空间”之意。具体区别如下 
 
 seat 意思是“座位”,可数名词。 
@@ -132,12 +134,8 @@ The world exists in space and time .世界存在于时空之中。
 
 --- 
 
-
-
-
-
 # 阅读
-其实这部分分数也很好拿，很多人都觉得一定要将阅读的每个字都看懂才能做对题目，其实是不对的，对于学位英语考试来说，要求没有那么高，`你只需要将题目的对应句到原文中去找即可`。
+其实这部分分数也很好拿，很多人都觉得一定要将阅读的每个字都看懂才能做对题目，其实是不对的，对于学位英语考试来说，要求没有那么高，⭐️⭐️⭐️`你只需要将题目的对应句到原文中去找即可`。
 
 唯一可以错的就是最后一题，一般是主旨题，让你说出这个文章的核心思想，或者让你给这篇文章取个名字，其他的都是细节题。
 ## 方法
@@ -361,8 +359,6 @@ The world exists in space and time .世界存在于时空之中。
 18. have a word with和⋯⋯谈谈，说几句话`, have words with 发生争吵，编译
 19. affect v, effect n, influence
 20. in charge 负责、看管, in charge of 负责, in the charge of被管理 被动
-21. 
-
 
 --- 
 # 翻译
@@ -483,7 +479,55 @@ The world exists in space and time .世界存在于时空之中。
 	2. Secondly,
 	3. Consequently, 
 4. There be 句型也好用
+## 机构模版⭐️⭐️⭐️  
 
+###  1 要求论述两个对立的观点并给出自己的看法。
+
+> The topic of （主题）is becoming more and more popular recently. There are two sides of opinions about it. Some people say A is their favorite. They hold their view for the reason of （支持A的理由一）What is more, 理由二). Moreover, (理由三).
+
+> While others think that B is a better choice in the following three reasons. Firstly,(支持B的理由一). Secondly (besides),（理由二）. Thirdly (finally),(理由三).
+
+> From my point of view, I think（我的观点）. The reason is that (原因). As a matter of fact, there are some other reasons to explain my choice. For me, the former is surely a wise choice .
+
+###  2给出一个观点，要求考生反对这一观点
+
+> Some people believe that 观点一. For example, they think（举例说明）．And it will bring them (为他们带来的好处).
+
+> In my opinion, I never think this reason can be the point. For one thing,(我不同意该看法的理由一). For another thing, (反对的理由之二).
+
+> Form all what I have said, I agree to the thought that (我对文章所讨论主题的看法).
+
+###  3不同观点列举型（ 选择型 ）
+
+> There is a widespread concern over the issue that (作文题目). But it is well known that the opinion concerning this hot topic varies from person to person. A majority of people think that (观点一). In their views there are 2 factors contributing to this attitude as follows: in the first place, (原因一).Furthermore, in the second place, (原因二). So it goes without saying that (观点一). 
+
+> People, however, differ in their opinions on this matter. Some people hold the idea that (观点二). In their point of view, on the one hand，(原因一).  On the other hand, (原因二). 
+
+> Therefore, there is no doubt that (观点二).  As far as I am concerned, I firmly support the view that (观点一或二). It is not only because (原因一), but also because （原因二）. 
+
+> “The Advantages or Disadvantages of Having Hobbies”
+	1. 你认为业余爱好对人们有好处还是坏处？
+	2. 举例说明业余爱好对人们有什么好处或坏处。
+
+###  4利弊型的议论文
+
+> Nowadays, there is a widespread concern over （作文题目）. In fact, there are both advantages and disadvantages in （题目议题）. Generally speaking, it is widely believed there are several positive aspects as follows. Firstly, （优点一）.  And secondly （优点二）. 
+
+> Just as a popular saying goes, "every coin has two sides",（讨论议题）is no exception, and in another word, it still has negative aspects.To begin with,（缺点一）. In addition, （缺点二）. 
+
+> To sum up, we should try to bring the advantages of （讨论议题）into full play, and reduce the disadvantages to the minimum at the same time. In that case, we will definitely make a better use of the （讨论议题）.
+
+> Do you think games are as important for adults as they are for children?
+	1. 你认为游戏对成年人也很重要吗？
+	2. 请举例说明你的观点。
+
+###  5答题性议论文
+
+> Currently, there is a widespread concern over（作文题目—）.It is really an important concern to every one of us. As a result, we must spare no efforts to take some measures to solve this problem.
+
+As we know that there are many steps which can be taken to undo this problem. First of all, （途径一）. In addition, another way contributing to success of the solving problem is （途径二）.
+
+Above all, to solve the problem of （作文题目）, we should find a number of various ways. But as far as I am concerned, I would prefer to solve the problem in this way, that is to say,（方法）.
 ## 真题
 ### 2010
 Part V Writing (30 minutes, 20 points)
@@ -554,29 +598,7 @@ Ban or Lift the Ban of Firecrackers
 4. 祝贺信
 5. 邀请信
 6. 求职信
-7. 
-
-
-
-## 经典句式
-必背句型
-1. as is known /as it is known to all …众所周知
-2. with the pace of modern life increasing ….随着现代生活步伐的加快
-3. with the development of modern society …随着现代社会的
-4. personally I’m in favor of the former/latter view …我个人偏向于前 /后一种观点
-5. there is no doubt that…勿容质疑
-6. however everything has two sides …任何事物都具有两方面
-7. as a Chinese saying goes…正如中国的一句谚语所说
-8. the same is the case with sth…也不例外
-9. in the appraisal of …在。。。的评价中
-10. according to … there are at least three good reasons…firstly secondly… thirdly ….列举的用法
-11. In my opinion, in the appraisal of …it is one-sided to affirm everything or to negate everything. We should appreciate the great contribution made by them, and at the same time pay enough attention to the problems caused by them 。 我认为，在对… .的评价中，完全的肯定任何事情和否认任何事情都是片面的。我们在欣赏到他们做出的巨大的贡献的 同时也要更加注意他们带来的问题。
-
-
-图画
-- From the picture we can see that...
-- This picture reveals something true of...
-- The picture vividly portrays...
+7. 等等
 
 
 ## 199模版
@@ -585,6 +607,7 @@ Ban or Lift the Ban of Firecrackers
 
 
 ## 模版材料
+
 #### 学会使用过渡词.
 例如:
 1. 递进:furthermore, moreover, besides, in addition, then...
@@ -604,64 +627,15 @@ Ban or Lift the Ban of Firecrackers
 7. as a Chinese saying goes…正如中国的一句谚语所说  
 8. the same is the case with sth…也不例外  
 9. in the appraisal of…在...的评价中  
-11. according to…there are at least three good reasons…firstly secondly…thirdly….列举的用法 
+10. according to…there are at least three good reasons…firstly secondly…thirdly….列举的用法 
+11. In my opinion, in the appraisal of …it is one-sided to affirm everything or to negate everything. We should appreciate the great contribution made by them, and at the same time pay enough attention to the problems caused by them 。 我认为，在对… .的评价中，完全的肯定任何事情和否认任何事情都是片面的。我们在欣赏到他们做出的巨大的贡献的 同时也要更加注意他们带来的问题。
 
-#### 英语作文速成模板
-
- 1）要求论述两个对立的观点并给出自己的看法。  
-   
-The topic of（主题）is becoming more and more popular recently.There are two sides of opinions about it.Some people say A is their favorite.They hold their view for the reason of（支持A的理由一）What is more，理由二).Moreover，(理由三).  
-   
-While others think that B is a better choice in the following three reasons.Firstly，(支持B的理由一).Secondly(besides)，（理由二）.Thirdly(finally)，(理由三).  
-   
-From my point of view，I think（我的观点）.The reason is that(原因).As a matter of fact，there are some other reasons to explain my choice.For me，the former is surely a wise choice.  
-   
-2）给出一个观点，要求考生反对这一观点  
-   
-Some people believe that观点一.For example，they think（举例说明）．And it will bring them(为他们带来的好处).  
-   
-In my opinion，I never think this reason can be the point.For one thing，(我不同意该看法的理由一).For another thing，(反对的理由之二).  
-   
-Form all what I have said，I agree to the thought that(我对文章所讨论主题的看法).  
-   
-3) 不同观点列举型（选择型）  
-   
-There is a widespread concern over the issue that(作文题目).But it is well known that the opinion concerning this hot topic varies from person to person.A majority of people think that(观点一).In their views there are 2 factors contributing to this attitude as follows：  
-   
-in the first place，(原因一).Furthermore，in the second place，(原因二).So it goes without saying that(观点一).  
-   
-People，however，differ in their opinions on this matter.Some people hold the idea that(观点二).In their point of view，on the one hand，(原因一).On the other hand，(原因二).  
-   
-Therefore，there is no doubt that(观点二).As far as I am concerned，I firmly support the view that(观点一或二).It is not only because(原因一)，but also because（原因二）.  
-   
-4）利弊型的议论文  
-   
-Nowadays，there is a widespread concern over（作文题目）.In fact，there are both advantages and disadvantages in（题目议题）.Generally speaking，it is widely believed there are several positive aspects as follows.Firstly，（优点一）.And secondly（优点二）.  
-   
-Just as a popular saying goes，"every coin has two sides"，（讨论议题）is no exception，and in another word，it still has negative aspects.To begin with，（缺点一）.  
-   
-In addition，（缺点二）.  
-   
-To sum up，we should try to bring the advantages of（讨论议题）into full play，and reduce the disadvantages to the minimum at the same time.In that case，we will definitely make a better use of the（讨论议题）.  
-   
-5) 答题性议论文  
-   
-Currently，there is a widespread concern over（作文题目—）.It is really an important concern to every one of us.As a result，we must spare no efforts to take some measures to solve this problem.  
-   
-As we know that there are many steps which can be taken to undo this problem.First of all，（途径一）.In addition，another way contributing to success of the solving problem is（途径二）.  
-   
-Above all，to solve the problem of（作文题目），we should find a number of various ways.  
-   
-But as far as I am concerned，I would prefer to solve the problem in this way，that is to say，（方法）.
-
-
-
-
-
-
-
-# 模版 三段论
-### 书信
+#### 图画
+- From the picture we can see that...
+- This picture reveals something true of...
+- The picture vividly portrays...
+# 模版 ⭐️⭐️⭐️
+### 书信⭐️⭐️⭐️  
 >`句首`⭐️Dear Smith,(逗号)
 >**第1段开头**，`I am writing this letter/email to …(实的部分) and to express…(虚的部分)`
 >`实的部分`
@@ -695,11 +669,11 @@ But as far as I am concerned，I would prefer to solve the problem in this way�
 
 
 
-### 议论文
+### 议论文⭐️⭐️⭐️  
 > **第一段**
 > 开头：Given is a… that clearly reveals the remarkable change in the statistics of…
-> 第二句：在 `时间1`到`时间2`的这段时间内，关于主题的`数字/比例`从`数字1/比例1` `上升/下降`了`数字2/比例2`
-The `number/percentage` of`主题` `climbed/declined` from`数字1/比例1`to`数字2/比例2` between`时间1`and`时间2`
+> 第二句：>在`时问1`到`时问2`的这段时问内,关于`主题` 的`数字/比例`呈上升造势,从`数字1/比例1`上升到了`数字2/比例2`
+There was `an upward/a downward` tendency in the `number/percentoge` of`主题`from`数字1/比例1`to`数字 2/比例2` between`时间1` and`时间2`
 > 
 > **第二段**
 > If you look hard enough, you will find that【 】has a …impact on 【…】 .
@@ -714,7 +688,7 @@ Pretty much everyone agrees on the prescription that【 】.
 On the whole, I do believe that the problem of…is bound to be solved.
 
 
-#### 手机
+#### 手机⭐️⭐️⭐️  
 >For studying, a mobile phone is a mixed blessing. 
 All things considered,I hold the opinion that the benefits of a mobile phone justify the costs.
 When it comes to mobile phones, it is well known that they are an important learning tool in modern society.
@@ -732,7 +706,7 @@ If we turn a blind eye to this issue, it is very likely that mobile phones will 
 但是，手机上有太多游戏了。如果我们对此问题熟视无睹，则很有可能使手机占用我们大量的学习时间。
 
 
-#### 健康饮食
+#### 健康饮食⭐️⭐️⭐️  
 如果你观察的⾜够仔细，会发现健康饮⻝对我们的⼈⽣有深远影响。两点原因可以解释。⾸要原因是它可以让我们有更好的精⼒，⽽这能解释为什么精英⼈群更重视健康饮⻝。其次，当提及健康饮⻝时，众所周知的是我们应该减少脂肪和糖类的摄⼊。⽽这可以归结于那些由不健康的饮⻝⽅式导致的肥胖问题。毫⽆疑问，这将对个⼈健康产⽣不利的影响。
 根据以上所讨论的来判断，不难得出结论：我们应该重视健康饮⻝。应该怎么办呢？ 很多⼈都赞成这⼀⽅案：我们应当控制每顿饭的分量，不能暴饮暴⻝，多吃⽔果蔬菜以及⻥类。
 
@@ -747,3 +721,4 @@ If we turn a blind eye to this issue, it is very likely that mobile phones will 
 > Judging by what is discussed above, it is not difficult to draw the conclusion that we should lay emphasis on healthy eating.
 > What is to be done? 
 > Pretty much everyone agrees on the prescription that we should control the amount of each meal and do not eat and drink too much.
+
