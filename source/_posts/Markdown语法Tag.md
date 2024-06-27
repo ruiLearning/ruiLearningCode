@@ -119,7 +119,7 @@ Any content (support inline tags too.io).
 color | icon | style
 --- | --- | ---
 【可選】`顔色`| 【可選】可配置自定義`icon` | 【可選】可以覆蓋配置中的 `style`
-default / blue / pink / red / purple / orange / green |  只支持 [fontawesome](https://fontawesome.com/) 圖標, 也可以配置 no-icon  |  simple/modern/flat/disabled
+default / blue / pink / red / purple / orange / green |  只支持 [fontawesome](https://fontawesome.com) 圖標, 也可以配置 no-icon  |  simple/modern/flat/disabled
 
 
 <!-- endtab -->

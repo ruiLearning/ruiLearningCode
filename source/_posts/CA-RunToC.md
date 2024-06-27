@@ -36,15 +36,15 @@ date: 2023-07-31 15:24:11
 
 ## URL
 ### 学校
-1. [Confederation College - Premier Education in Ontario, Canada](https://www.confederationcollege.ca/)
+1. [Confederation College - Premier Education in Ontario, Canada](https://www.confederationcollege.ca)
 2. [Computer Programming - Seneca Polytechnic, Toronto, Canada](https://www.senecacollege.ca/programs/fulltime/CPP.html)
-3. [Algonquin College](https://www.algonquincollege.com/)
-4. [SAIT - the Southern Alberta Institute of Technology](https://www.sait.ca/)
+3. [Algonquin College](https://www.algonquincollege.com)
+4. [SAIT - the Southern Alberta Institute of Technology](https://www.sait.ca)
 5. [Tuition Fees for International Applicants - Seneca Polytechnic, Toronto, Canada](https://www.senecacollege.ca/international/fees/tuition.html)
 
 ### 政策
-1. 加拿大政府官方网站 [Canada.ca](https://www.canada.ca/)
-2. GeoMatch [GeoMatch - Immigration Policy Lab](https://immigrationlab.org/geomatch/)
+1. 加拿大政府官方网站 [Canada.ca](https://www.canada.ca)
+2. GeoMatch [GeoMatch - Immigration Policy Lab](https://immigrationlab.org/geomatch)
 3. [EE](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
 4. newyouth.ca [Home | New Youth](https://newyouth.ca/en)
 5. 搜学校和专业的网站：[Find programs and costs for international students in Canada](https://www.educanada.ca/programs-programmes/index.aspx?lang=eng)
@@ -55,13 +55,13 @@ date: 2023-07-31 15:24:11
 
 
 ### 租房
-1. [Zumper - Houses, Condos, and Apartments for Rent](https://www.zumper.com/)
+1. [Zumper - Houses, Condos, and Apartments for Rent](https://www.zumper.com)
 
 ### 工作
-1. [https://www.applyboard.com/](https://www.applyboard.com/)
+1. [https://www.applyboard.com/](https://www.applyboard.com)
 2. [https://www.jobbank.gc.ca/home](https://www.jobbank.gc.ca/home)
-3. indeed [Job Search Canada | Indeed](https://ca.indeed.com/)
-4. [领英: 登录或注册](https://www.linkedin.com/)
+3. indeed [Job Search Canada | Indeed](https://ca.indeed.com)
+4. [领英: 登录或注册](https://www.linkedin.com)
 
 ### 机票
 1. [旅行预订网站：特价酒店预订，机票查询，自游行网上优惠 | Expedia.com](https://www.expedia.com/cn/?pwaLob=wizard-lx-pwa)
@@ -78,17 +78,17 @@ date: 2023-07-31 15:24:11
 8. 加拿大华人超市网购链接 大统华 :https://www.tntsupermarket.com/chs/ 
 9. 沃尔玛网购链接:https://www.walmart.ca/en
 10. 加拿大一元店链接:https://www.dollarama.com/en-CA/
-11. 租房网站：[https://rentals.ca/](https://rentals.ca/)
-12. 找工作网站：[https://ca.indeed.com/](https://ca.indeed.com/)
-13. Costco：[https://www.costco.ca/](https://www.costco.ca/)
+11. 租房网站：[https://rentals.ca/](https://rentals.ca)
+12. 找工作网站：[https://ca.indeed.com/](https://ca.indeed.com)
+13. Costco：[https://www.costco.ca/](https://www.costco.ca)
 14. save on food（中档食物）：https://www.saveonfoods.com/sm/pickup/rsid/1982/
-15. 网课平台Udemy [在线课程 - 时间自由，学您想学 | Udemy](https://www.udemy.com/)
-16. 银行 [Everyday Banking | EQ Bank](https://www.eqbank.ca/) 
+15. 网课平台Udemy [在线课程 - 时间自由，学您想学 | Udemy](https://www.udemy.com)
+16. 银行 [Everyday Banking | EQ Bank](https://www.eqbank.ca) 
 17.  开源之兼职+退税
 
 ### 论坛
 ### 其它
-1. [Reddit - Dive into anything](https://www.reddit.com/)
+1. [Reddit - Dive into anything](https://www.reddit.com)
 2. [List of the largest population centres in Canada - Wikipedia](https://en.wikipedia.org/wiki/List_of_the_largest_population_centres_in_Canada)
 3. www.canada.ca/en/immigration-refugees-citizenship.html 
 4. www.canadavisa.com/canada-immigration-discussion-board 
@@ -98,9 +98,9 @@ date: 2023-07-31 15:24:11
 1. [Clark - 加村生活 Life in the Great White North - YouTube](https://www.youtube.com/@clark2022)
 2. [Superior Canada 潘老师聊加拿大 - YouTube](https://www.youtube.com/@SuperiorLife)
 3. [陈永仁 - YouTube](https://www.youtube.com/channel/UCoQ2yLuQbpE6sd1E-5aE6tA)
-4. [加拿大留学移民DIY – created by @陈永仁](https://runtocanada.com/)
+4. [加拿大留学移民DIY – created by @陈永仁](https://runtocanada.com)
 5. [56BelowTV 零下56 - YouTube](https://www.youtube.com/channel/UCSX99Rvq5dszj6rzAPkdglA)
-6. [跑路联盟，可以互相交流分享跑路的经验。](https://www.reddit.com/r/iwanttorun/)
+6. [跑路联盟，可以互相交流分享跑路的经验。](https://www.reddit.com/r/iwanttorun)
 7. [Max\_Medyk的个人空间-Max\_Medyk个人主页-哔哩哔哩视频](https://space.bilibili.com/698579804)
 8. [加拿大移民 |普通移民行不通，想旅游签转学签，工签？不符合这四个条件，上帝都没办法](https://www.youtube.com/watch?v=9LDn-9MFOYY&ab_channel=56BelowTV%E9%9B%B6%E4%B8%8B56)
 9. [加拿大留学\_北美留学|申请经验|offer总结|院校排名|租房](https://bbs.gter.net/forum-canada-1.html)
@@ -291,7 +291,7 @@ date: 2023-07-31 15:24:11
 - LMIA工作签证
 - 曼省(或着其他)小镇可以提供移民机会 但是需要工作2年左右 
 - EE
-	-  [【2023 更新】关于加拿大EE移民的一切 | EE快速通道移民 | Express Entry移民史上最全 | 钱小移记](https://qianxiaoyi.com/canada-ee-immigration/)
+	-  [【2023 更新】关于加拿大EE移民的一切 | EE快速通道移民 | Express Entry移民史上最全 | 钱小移记](https://qianxiaoyi.com/canada-ee-immigration)
 	- [加拿大移民ee打分算分系统 - Express Entry 分数计算器 | 加拿大DreamOffer - 多伦多大学MBA团队创立的加拿大留学中介&雅思培训](https://www.dreamoffer.ca/ee-calculator)
 ![image.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308021745613.png)
 ![4b1d93_a2a222eb71dd44ccb063b07f348fb287~mv2.webp](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308031418510.webp)

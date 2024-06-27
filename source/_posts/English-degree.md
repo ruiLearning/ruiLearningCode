@@ -663,7 +663,7 @@ Ban or Lift the Ban of Firecrackers
 >`句尾` ⭐️ Yours sincerely, (小写，最后+逗号)
 >`句尾` ⭐️ Li Ming (不带标点符号)
 
-[书信格式](https://ruilearning.github.io/2022/08/18/18%E7%BB%83-16~18%E6%9C%80%E5%90%8E%E5%AD%A6%E5%B0%8F%E4%BD%9C%E6%96%87/)
+[书信格式](https://ruilearning.github.io/18%E7%BB%83-16~18%E6%9C%80%E5%90%8E%E5%AD%A6%E5%B0%8F%E4%BD%9C%E6%96%87)
 ![xzwgs.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308151522969.png)
 
 

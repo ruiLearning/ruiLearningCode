@@ -26,7 +26,7 @@ date: 2023-07-31 15:24:11
 
 ## 报名
 - ❗️`一定要提前2个月`
-- [雅思网上报名 - 教育部教育考试院](https://ielts.neea.cn/)
+- [雅思网上报名 - 教育部教育考试院](https://ielts.neea.cn)
 
 
 ## 听力
@@ -44,7 +44,7 @@ date: 2023-07-31 15:24:11
 3. 同义词 替换 词汇量
 4. 雅思阅读真题原文 重要
 5. 拓展阅读 twitter
-6. [Fresh voices from today's China | Sixth Tone](https://www.sixthtone.com/)
+6. [Fresh voices from today's China | Sixth Tone](https://www.sixthtone.com)
 ## 口语
 保6争6.5 [口语评分标准](https://www.chinaielts.org/pdf/UOBDs_SpeakingFinal.pdf)
 - 考试的时候慢慢说，不要图快。
