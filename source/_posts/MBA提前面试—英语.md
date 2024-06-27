@@ -449,7 +449,7 @@ That's all about my self introduction. Thank you！
 
 
 ## 公司文化
-![](/2ae45808-483d-4cda-9506-41bde5571b7b.png)
+![2ae45808-483d-4cda-9506-41bde5571b7b.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202406271615445.png)
 
 
 ### 我是老板 BE CEO
