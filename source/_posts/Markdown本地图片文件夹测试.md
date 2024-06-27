@@ -68,7 +68,6 @@ top_img: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
 ---
 
 ##  本地文件夹图片预览
-![](3a20ad986bce2b559f738bdb2412efd3.jpeg)
 
 ---
 
@@ -107,4 +106,3 @@ top_img: /img/791bf5e809a4185012f2cbc7e30d1739.jpeg
 ---
 
 ## 普通动图写法预览
-![](loading1.webp)
