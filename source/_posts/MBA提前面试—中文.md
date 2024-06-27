@@ -1,5 +1,6 @@
 ---
 title: MBA提前面试—中文
+permalink: MBA提前面试—中文
 description: ''
 toc: true
 date: 2022-06-21 11:09:07

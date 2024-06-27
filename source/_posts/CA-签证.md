@@ -1,5 +1,6 @@
 ---
 title: CA-ILAC
+permalink: CA-签证
 tags:
   - 生活
 categories:

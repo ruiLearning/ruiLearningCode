@@ -1,5 +1,6 @@
 ---
 title: CA-身份
+permalink: CA-身份
 tags:
   - 生活
 categories:

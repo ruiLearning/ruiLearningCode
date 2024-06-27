@@ -1,5 +1,6 @@
 ---
 title: CA-RunToC
+permalink: CA-RunToC
 tags:
   - 生活
 categories:

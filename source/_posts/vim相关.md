@@ -1,5 +1,6 @@
 ---
 title: vim相关
+permalink: vim相关
 description: ''
 toc: true
 date: 2022-10-17 13:35:10

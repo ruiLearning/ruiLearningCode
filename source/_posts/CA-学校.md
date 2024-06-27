@@ -1,5 +1,6 @@
 ---
 title: CA-学校
+permalink: CA-学校
 tags:
   - 生活
 categories:

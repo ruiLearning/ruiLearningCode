@@ -1,5 +1,6 @@
 ---
 title: CA-ILAC
+permalink: CA-ILAC
 tags:
   - 生活
 categories:

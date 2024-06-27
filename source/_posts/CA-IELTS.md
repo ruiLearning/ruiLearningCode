@@ -1,5 +1,6 @@
 ---
 title: CA-IELTS
+permalink: CA-IELTS
 tags:
   - 生活
 categories:

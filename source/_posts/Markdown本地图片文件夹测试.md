@@ -1,5 +1,6 @@
 ---
 title: Markdown本地图片文件夹测试
+permalink: Markdown本地图片文件夹测试
 description: ''
 toc: true
 date: 2022-03-17 14:27:53

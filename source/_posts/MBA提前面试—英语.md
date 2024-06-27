@@ -1,5 +1,6 @@
 ---
 title: MBA提前面试—英语
+permalink: MBA提前面试—英语
 description: '2020考研MBA提前面试必修课—英语口语面试技巧'
 toc: true
 date: 2022-06-21 11:09:07
