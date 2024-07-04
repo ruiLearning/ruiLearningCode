@@ -259,7 +259,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus
-  use: Valine
+  use: twikoo
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -336,8 +336,11 @@ facebook_comments:
 
 # Twikoo
 # https://github.com/imaegoo/twikoo
+# https://vercel.com/ 部署
+# https://cloud.mongodb.com/ atlas 数据库地址
+# https://twikoo-api-eight-lyart.vercel.app/
 twikoo:
-  envId:
+  envId: "https://twikoo-api-eight-lyart.vercel.app"
   region:
   visitor: false
   option:
@@ -539,7 +542,7 @@ activate_power_mode:
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
-  enable: false
+  enable: true
   zIndex: 9999 # -1 or 9999
   mobile: false
 
