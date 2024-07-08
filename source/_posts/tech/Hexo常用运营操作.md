@@ -47,6 +47,40 @@ for file in `find . -type f`; do d=`head $file|sed -n 's/^date: //p' |sed -n 's/
 ```
 
 ```
+hexo 升级
+# 使用淘宝源的 cnpm 替换 npm（如果直接用 npm 执行更新命令，大概率会更新失败）
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+# 升级 cnpm
+cnpm install -g cnpm
+# 清除缓存
+cnpm cache clean -f
+
+# 进入 Hexo 根目录，执行如下命令
+# 更新 package.json 中的 Hexo 及各个插件版本
+cnpm install -g npm-check       # 检查之前安装的插件，都有哪些是可以升级的 
+cnpm install -g npm-upgrade     # 升级系统中的插件
+npm-check
+npm-upgrade
+
+# 更新 Hexo 及所有插件
+cnpm update
+
+# 确认 Hexo 已经更新
+cnpm update
+
+```
+
+```
+hexo升级报错执行清理缓存 重新安装
+npm cache clean --force
+rm -rf node_modules
+rm package-lock.json
+npm install
+hexo clean
+hexo g
+```
+
+```
 hexo help  # 查看帮助
 hexo version  #查看Hexo的版本
 hexo algolia  # 更新search庫
