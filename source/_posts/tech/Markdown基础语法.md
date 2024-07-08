@@ -1,6 +1,6 @@
 ---
 title: Markdown基础语法
-permalink: Markdown基础语法
+permalink: Markdown基础语法.html
 tags:
   - markdown
   - blog
@@ -154,7 +154,7 @@ Markdown是一种纯文本格式的标记语言。通过简单的标记语法，
 
 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
-permalink: Markdown基础语法
+permalink: Markdown基础语法.html
 ```
 ![芮芮来了 图标](https://ruilearning.github.io/img/ruiruilaile_cycle120X120.png "芮芮来了")
 
@@ -175,9 +175,9 @@ permalink: Markdown基础语法
 ```
 
 [超链接名](超链接地址 "超链接title")
-permalink: Markdown基础语法
+permalink: Markdown基础语法.html
 title可加可不加
-permalink: Markdown基础语法
+permalink: Markdown基础语法.html
 
 [简书](http://jianshu.com)
 [百度](http://baidu.com)
@@ -186,9 +186,9 @@ permalink: Markdown基础语法
 
 ```
 [超链接名](超链接地址 "超链接title")
-permalink: Markdown基础语法
+permalink: Markdown基础语法.html
 title可加可不加
-permalink: Markdown基础语法
+permalink: Markdown基础语法.html
 
 [简书](http://jianshu.com)
 [百度](http://baidu.com)

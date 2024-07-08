@@ -1,6 +1,6 @@
 ---
 title: Markdown_UI_Template
-permalink: Markdown页面UI-Template
+permalink: Markdown页面UI-Template.html
 description: ''
 toc: true
 tags:

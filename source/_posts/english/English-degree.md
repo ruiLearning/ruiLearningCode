@@ -1,6 +1,6 @@
 ---
 title: 英语-学位
-permalink: English-degree
+permalink: English-degree.html
 tags:
   - 生活
 categories:

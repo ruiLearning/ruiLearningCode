@@ -1,6 +1,6 @@
 ---
 title: Hexo常用运营操作
-permalink: Hexo常用运营操作
+permalink: Hexo常用运营操作.html
 tags:
   - 技术
 categories:
@@ -23,7 +23,7 @@ cd source/_post
 
 # 修改文章内容，添加permalink
 for file in `ls`; do link=`echo $file|sed -n 's/\.md//p'`; sed -i "" "/title.*/ a\ 
-permalink: $link
+permalink: $link.html
 " $file; done;
 
 # 修改文章的创建时间为Front-matter中的时间
@@ -86,7 +86,7 @@ hexo version  #查看Hexo的版本
 hexo algolia  # 更新search庫
 hexo new "postName" #新建文章
 hexo new post "title"  # 生成新文章：\source\_posts\title.md，可省略post
-permalink: Hexo常用运营操作
+permalink: Hexo常用运营操作.html
 hexo new page "pageName" #新建页面
 hexo clean #清除部署緩存
 hexo n == hexo new #新建文章

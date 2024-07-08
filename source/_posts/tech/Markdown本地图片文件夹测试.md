@@ -1,6 +1,6 @@
 ---
 title: Markdown本地图片文件夹测试
-permalink: Markdown本地图片文件夹测试
+permalink: Markdown本地图片文件夹测试.html
 description: ''
 toc: true
 tags: blog

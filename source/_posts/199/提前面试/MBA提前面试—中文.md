@@ -1,6 +1,6 @@
 ---
 title: MBA提前面试—中文
-permalink: MBA提前面试—中文
+permalink: MBA提前面试—中文.html
 description: ''
 toc: true
 tags: 提前面试

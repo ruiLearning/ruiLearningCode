@@ -1,6 +1,6 @@
 ---
 title: vim相关
-permalink: vim相关
+permalink: vim相关.html
 description: ''
 toc: true
 categories:

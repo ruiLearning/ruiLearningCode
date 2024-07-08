@@ -1,6 +1,6 @@
 ---
 title: Markdown语法Tag
-permalink: Markdown语法Tag
+permalink: Markdown语法Tag.html
 description: ''
 toc: true
 tags:
@@ -474,7 +474,7 @@ Every interaction is both precious and an opportunity to delight.
 {% mermaid %}
 pie
 title Key elements in Product X
-permalink: Markdown语法Tag
+permalink: Markdown语法Tag.html
 "Calcium" : 42.96
 "Potassium" : 50.05
 "Magnesium" : 10.01
@@ -485,7 +485,7 @@ permalink: Markdown语法Tag
 {% mermaid %}
 pie
     title Key elements in Product X
-permalink: Markdown语法Tag
+permalink: Markdown语法Tag.html
     "Calcium" : 42.96
     "Potassium" : 50.05
     "Magnesium" : 10.01
@@ -495,7 +495,7 @@ permalink: Markdown语法Tag
 {% mermaid %}
 journey
     title My working day
-permalink: Markdown语法Tag
+permalink: Markdown语法Tag.html
     section Go to work
         Make tea: 5: Me
         Go upstairs: 3: Me
@@ -509,7 +509,7 @@ permalink: Markdown语法Tag
 {% mermaid %}
 journey
     title My working day
-permalink: Markdown语法Tag
+permalink: Markdown语法Tag.html
     section Go to work
         Make tea: 5: Me
         Go upstairs: 3: Me
@@ -526,7 +526,7 @@ permalink: Markdown语法Tag
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
-permalink: Markdown语法Tag
+permalink: Markdown语法Tag.html
 excludes weekdays 2014-01-10
 
 section A section
@@ -543,7 +543,7 @@ Future task2              :         des4, after des3, 5d
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
-permalink: Markdown语法Tag
+permalink: Markdown语法Tag.html
 excludes weekdays 2014-01-10
 
 section A section

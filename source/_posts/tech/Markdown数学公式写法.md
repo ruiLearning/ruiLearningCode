@@ -1,6 +1,6 @@
 ---
 title: Markdown数学公式写法
-permalink: Markdown数学公式写法
+permalink: Markdown数学公式写法.html
 tags:
   - 数学
   - markdown
