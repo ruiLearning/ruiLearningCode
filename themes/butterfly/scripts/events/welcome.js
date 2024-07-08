@@ -1,5 +1,7 @@
-const logger = require('hexo-log')()
-
+const logger = require('hexo-log').default({
+                                    debug: false,
+                                    silent: false
+                                  });
 hexo.on('ready', () => {
   const { version } = require('../../package.json')
   logger.info(`

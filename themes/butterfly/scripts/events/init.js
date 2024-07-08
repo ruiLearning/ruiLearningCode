@@ -1,4 +1,7 @@
-const logger = require('hexo-log')()
+const logger = require('hexo-log').default({
+                                    debug: false,
+                                    silent: false
+                                  });
 
 hexo.extend.filter.register('before_generate', () => {
   // Get first two digits of the Hexo version number
