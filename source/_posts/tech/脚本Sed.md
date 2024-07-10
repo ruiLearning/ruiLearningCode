@@ -1,15 +1,15 @@
 ---
-title: Hexo常用运营操作
-permalink: Hexo常用运营操作.html
+title: 脚本Sed
+permalink: 脚本Sed.html
 tags:
   - 技术
 categories:
   - tech
 description: ''
 toc: true
-date: 2022-03-16 18:20:41
-cover:
-top_img:
+date: 2022-11-16 18:20:41
+cover: /img/tech.jpg
+top_img: /img/tech.jpg
 ---
 
 ```

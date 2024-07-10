@@ -7,8 +7,8 @@ categories:
   - tech
 date: 2022-10-17 13:35:10
 tags:
-cover:
-top_img:
+cover: /img/tech.jpg
+top_img: /img/tech.jpg
 ---
 
 # 宏 

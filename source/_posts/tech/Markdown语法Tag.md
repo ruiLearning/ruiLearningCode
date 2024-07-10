@@ -471,10 +471,10 @@ Every interaction is both precious and an opportunity to delight.
 
 
 ```
+
 {% mermaid %}
 pie
 title Key elements in Product X
-permalink: Markdown语法Tag.html
 "Calcium" : 42.96
 "Potassium" : 50.05
 "Magnesium" : 10.01

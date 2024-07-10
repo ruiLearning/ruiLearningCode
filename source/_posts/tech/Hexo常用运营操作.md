@@ -7,14 +7,18 @@ categories:
   - tech
 description: ''
 toc: true
-date: 2022-03-16 18:20:41
-cover:
-top_img:
+date: 2022-11-16 18:20:41
+cover: /img/tech.jpg
+top_img: /img/tech.jpg
 ---
 
 ```
 toc: true 索引
 indexing: false 搜索不展示，但是没生效
+top_img 為 false 時，不顯示頂部圖
+如果不要显示顶部图，可直接配置 disable_top_img: true 显示false
+
+Tips:https://butterfly.js.org/posts/4aa8abbe/
 ```
 
 ```
@@ -98,7 +102,9 @@ hexo s -g #生成加预览
 ```
 
 ```
-hexo clean & hexo s
+hexo 三连
+hexo clean & hexo g & hexo s
+
+发布正式
 hexo clean & hexo d & hexo s
-hexo d -g
 ```
