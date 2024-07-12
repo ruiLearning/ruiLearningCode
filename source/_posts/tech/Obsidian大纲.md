@@ -16,6 +16,37 @@ updated: 2024-07-11 14:37
 
 weather: Beijing: ☀️   🌡️+36°C 🌬️↑11km/h---
 
+
+## 主页搭建工具
+主页主要用JS写。
+
+- Quickadd 
+- templater (tp)
+- Button
+- workplace plus (wp) 
+- style setting 
+- dataview (dv)
+- admonition （ad) 
+- banner
+
+## 插入按钮
+1. 打开命令模版 输入：Buttons: Button Maker
+   - 创建button
+   - ![screenshot-20240712-144035.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202407121505283.png)
+
+2. 得到结果
+    ```button
+    name 刷新主页
+    type command
+    action QuickAdd: 刷新主页
+    color default
+    ``` 
+3. 打开命令模版 输入：Buttons: Insert Inline Button
+   - 选择刚才的refreshHome
+   - 得到`button-refreshHome`成功插入
+
+
+
 ## YAML 和 Frontmatter
 
 YAML 作为一种用来写文件配置的语言，简洁而又强大。
