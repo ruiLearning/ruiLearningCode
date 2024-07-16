@@ -46,9 +46,13 @@ weather: Beijing: ☀️   🌡️+36°C 🌬️↑11km/h---
     action QuickAdd: 刷新主页
     color default
     ``` 
+    ^button-refreshHome
 3. 打开命令模版 输入：Buttons: Insert Inline Button
    - 选择刚才的refreshHome
    - 得到`button-refreshHome`成功插入
+4. `简单做法`
+	1. 复制第二步模版
+	2. 在需要的地方复制`button-refreshHome`即可
 
 
 
