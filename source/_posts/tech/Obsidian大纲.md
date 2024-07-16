@@ -25,9 +25,14 @@ weather: Beijing: ☀️   🌡️+36°C 🌬️↑11km/h---
 - Button
 - workplace plus (wp) 
 - style setting 
+  - 3.插件样式
+    - Callout和ad块全宽显示
+    - 开启Admonition特别样式支持
+    - Callout 外观样式设置 Traditional
 - dataview (dv)
 - admonition （ad) 
 - banner
+
 
 ## 插入按钮
 1. 打开命令模版 输入：Buttons: Button Maker
@@ -84,3 +89,27 @@ sort doDate asc
 
 ## Template
 [[ObsidianTemplate]]
+
+
+```
+banner1
+---
+cssclasses:
+  - myhome
+banner_x: 0.62858
+banner_y: 0.38648
+status: 进行中
+target: 10000
+banner: "40 - Obsidian/Attachments/banners/flowers.gif"
+banner_icon:
+---
+
+banner2
+---
+banner: "https://api.dujin.org/bing/1920.php"
+cssclass: fullwidth,noyaml,noscroll,myhome
+obsidianUIMode: preview
+---
+```
+
+
