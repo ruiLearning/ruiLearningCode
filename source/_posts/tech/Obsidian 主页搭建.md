@@ -7,8 +7,8 @@ categories:
   - tech
 date: 2022-10-17 13:35:10
 tags: 
-cover: /img/tech.jpg
-top_img: /img/tech.jpg
+cover: /img/obsidian.png
+top_img: /img/obsidian.png
 ---
 
 设计极简风 Obsidian 主页

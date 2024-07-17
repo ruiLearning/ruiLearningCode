@@ -5,8 +5,8 @@ tags:
   - tech
 categories:
   - tech
-cover: /img/travel200.jpg
-top_img: /img/travel200.jpg
+cover: /img/obsidian.png
+top_img: /img/obsidian.png
 date: 2024-07-11 14:37
 updated: 2024-07-11 14:37
 ---
