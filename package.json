@@ -17,6 +17,7 @@
     "hexo-algoliasearch": "^2.0.1",
     "hexo-asset-image": "github:CodeFalling/hexo-asset-image",
     "hexo-auto-category": "^0.2.2",
+    "hexo-blog-encrypt": "^3.1.9",
     "hexo-browsersync": "^0.3.0",
     "hexo-butterfly-artitalk-pro": "^1.0.5",
     "hexo-butterfly-recommend": "^1.1.2",

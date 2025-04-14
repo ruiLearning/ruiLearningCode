@@ -102,9 +102,12 @@ hexo s -g #生成加预览
 ```
 
 ```
-hexo 三连
-hexo clean & hexo g & hexo s
-
 发布正式
 hexo clean & hexo d & hexo s
+
+⭐️⭐️⭐️⭐️⭐️⭐️最常用
+hexo 三连
+hexo clean & hexo s & hexo g 
+
+
 ```
