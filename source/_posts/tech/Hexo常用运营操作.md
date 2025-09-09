@@ -103,11 +103,11 @@ hexo s -g #生成加预览
 
 ```
 发布正式
-hexo c & hexo d & hexo s
+hexo clean & hexo d & hexo s
 
 ⭐️⭐️⭐️⭐️⭐️⭐️最常用
 hexo 三连
-hexo c & hexo s & hexo g 
+hexo clean & hexo s & hexo g 
 
 
 ```
