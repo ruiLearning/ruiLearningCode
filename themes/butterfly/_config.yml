@@ -346,6 +346,7 @@ facebook_comments:
   lang: en_US # Language en_US/zh_CN/zh_TW and so on
 
 # Twikoo
+# 官网https://twikoo.js.org/ 有部署https://twikoo.js.org/mongodb-atlas.html
 # https://github.com/imaegoo/twikoo
 # https://vercel.com/ 部署
 # https://cloud.mongodb.com/ atlas 数据库地址
@@ -847,6 +848,8 @@ inject:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@latest/hexo/css/loading_style_2.css" > # gear风格样式文件
 #    - <link rel="stylesheet" href="/css/my.css">
 #    - <link rel="stylesheet" href="/css/my.js">
+    - <link rel="stylesheet" href="/css/tasks.css">
+    - <script src="/js/tasks.js"></script>
   bottom:
   # - <script src="xxxx"></script>
     - <div class="aplayer no-destroy" data-id="112875926" data-server="netease" data-autoplay="false" data-type="playlist" data-fixed="true" data-order="random"> </div>
@@ -965,15 +968,15 @@ bottom:
 # artitalk see https://artitalk.js.org/
 # hexo-butterfly-artitalk-pro
 # see https://akilar.top/posts/f1004b1d/
-artitalk:
-  enable: true
-  appId: 'guETV9HOLLk5cauLzQC5oRKO-MdYXbMMI'
-  appKey: 'GYweEU3Sd2ytIhqoyUsTvkUw'
-  option:
-    lang: zh
-    pageSize: 10
-    color1: '#49b1f5'
-    color2: '#00c4b6'
-    atEmoji: {
-      'Mafumafu1':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749454.png',
-      'Mafumafu2':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749455.png'}
+# artitalk:
+#   enable: true
+#   appId: 'guETV9HOLLk5cauLzQC5oRKO-MdYXbMMI'
+#   appKey: 'GYweEU3Sd2ytIhqoyUsTvkUw'
+#   option:
+#     lang: zh
+#     pageSize: 10
+#     color1: '#49b1f5'
+#     color2: '#00c4b6'
+#     atEmoji: {
+#       'Mafumafu1':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749454.png',
+#       'Mafumafu2':'https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Mafumafu/199749455.png'}
