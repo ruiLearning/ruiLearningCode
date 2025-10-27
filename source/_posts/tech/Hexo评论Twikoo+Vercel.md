@@ -40,6 +40,29 @@ top_img: /img/tech.jpg
 2. Vercel官网:https://vercel.com/
 3. 数据库mongodb官网:https://cloud.mongodb.com/
 
+
+# 新增 操作步骤
+1. 在mongodb0->cluster0->test库->新增表fit
+2. Github 
+   - -> 新增banFits.js https://github.com/ruiLearning/banApi/blob/main/api/banFits.js 
+   - -> 代码提交 
+   - -> 然后vercel会重新发布
+   - -> 得到新的Api https://ban-api-puce.vercel.app/api/banFits
+3. ruiLearningCode/source/js/tasks.js修改
+   - API_CONFIG 新增   fit: "https://ban-api-puce.vercel.app/api/banFits", 
+   - 如果需要新增js 
+4. 在需要用的地方添加 
+```<!-- 健身列表 -->
+<div id="task-container-fit" class="task-container">
+  <h3 style="margin-bottom:12px;">我的健身任务清单</h3>
+  <div class="add-task-box">
+    <input id="new-task-title-fit" placeholder="输入新任务标题...">
+    <button onclick="addTask('fit')">＋</button>
+  </div>
+  <div id="task-list-fit"></div>
+</div>
+ ```
+
 # Tips
 
 ```
