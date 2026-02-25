@@ -103,11 +103,11 @@ hexo s -g #生成加预览
 
 ```
 发布正式
-hexo clean & hexo d & hexo s
+hexo clean & hexo deploy & hexo server
 
 ⭐️⭐️⭐️⭐️⭐️⭐️最常用
 hexo 三连
-hexo clean & hexo s & hexo g 
+hexo clean & hexo server & hexo generate 
 
 
 ```
