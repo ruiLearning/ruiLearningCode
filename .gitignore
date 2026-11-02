@@ -12,3 +12,5 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+# 令牌只保存在本机，不提交
+token/

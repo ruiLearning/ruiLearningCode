@@ -1,6 +1,6 @@
 ---
 title: 生活-骑行-北京To山东
-date: 20230915_周五
+date: 2023-09-15
 categories:
   - live
   - riding

@@ -84,7 +84,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+updated_option: 'date'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -117,11 +117,12 @@ error_404:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:ruiLearning/ruiLearning.github.io.git
-  #repo: git@github.com:ruiLearning/ruiLearning.github.io.git
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: main
-  token: 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
+  repo:
+    url: https://github.com/ruiLearning/ruiLearning.github.io.git
+    branch: main
+    # 令牌不写进仓库。平时由 GitHub Actions 自动部署；
+    # 要在电脑上手动部署时，先执行 export HEXO_DEPLOY_TOKEN=你的令牌，再运行 npx hexo deploy
+    token: $HEXO_DEPLOY_TOKEN
 
 ## electric_clock
 #electric_clock:

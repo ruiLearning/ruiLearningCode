@@ -852,7 +852,7 @@ inject:
     - <script src="/js/tasks.js"></script>
   bottom:
   # - <script src="xxxx"></script>
-    - <div class="aplayer no-destroy" data-id="112875926" data-server="netease" data-autoplay="false" data-type="playlist" data-fixed="true" data-order="random"> </div>
+    - <div class="aplayer no-destroy" data-id="112875926" data-server="netease" data-api="https://api.injahow.cn/meting/?server=:server&type=:type&id=:id&r=:r" data-autoplay="false" data-type="playlist" data-fixed="true" data-order="random"> </div>
 #    - <link rel="stylesheet" href="/css/my.css">
 #    - <link rel="stylesheet" href="/css/my.js">
 

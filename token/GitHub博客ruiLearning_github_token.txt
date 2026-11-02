@@ -1,4 +1,0 @@
-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
-
-
-git remote set-url origin https://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@github.com/ruiLearning/ruiLearningCode.git
