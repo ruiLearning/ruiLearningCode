@@ -34,7 +34,7 @@ note
 <!-- ====================图片==================== -->
 <img src=" /img/791bf5e809a4185012f2cbc7e30d1739.jpeg" width="50%" height="20%" align="left">
 
-![](https://github.com/ruiLearning/ruiLearning.github.io/blob/main/img/loading3.webp?raw=true)
+![](/img/loading3.webp)
 
 
 <!-- ====================表格==================== -->

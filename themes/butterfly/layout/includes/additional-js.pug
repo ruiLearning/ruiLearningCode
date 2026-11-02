@@ -30,7 +30,7 @@ div
   else if theme.local_search.enable
     script(src=url_for(theme.CDN.local_search))
 
-  if theme.preloader
+  if theme.preloader && theme.preloader.enable
     != partial("includes/loading/loading-js", {}, { cache: true })
 
   .js-pjax

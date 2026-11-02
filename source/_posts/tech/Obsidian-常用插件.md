@@ -1,6 +1,6 @@
 ---
-title: Obsidian-Dataview最强教程
-permalink:  Obsidian-Dataview最强教程.html
+title: Obsidian-常用插件
+permalink: Obsidian-常用插件.html
 tags:
   - tech
 categories:

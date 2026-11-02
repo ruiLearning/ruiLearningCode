@@ -11,6 +11,7 @@ toc: true
 cover: /img/cb423f162652e4dfad5b5faca14ae5fe.jpeg
 top_img: /img/cb423f162652e4dfad5b5faca14ae5fe.jpeg
 date: 2022-03-23 19:20:15
+mathjax: true
 ---
 
 ## 常用

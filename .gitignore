@@ -14,3 +14,5 @@ public/
 _multiconfig.yml
 # 令牌只保存在本机，不提交
 token/
+# 主题备份压缩包不进仓库
+themes/*.zip

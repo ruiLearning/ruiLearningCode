@@ -9,7 +9,7 @@ description: 'bxrの学习空间'
 keywords:
 author: Rui's
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 email: banxiangrui@126.com
 
 # URL
@@ -29,7 +29,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: 'lib/**'
 
 # Writing
 new_post_name: :year/:title.md # File name of new posts
@@ -142,28 +142,7 @@ deploy:
 #  ip_api: https://pv.sohu.com/cityjson?ie=utf-8
 
 
-live2d:
-  enable: false
-  scriptFrom: local
-  pluginRootPath: live2dw/
-  pluginJsPath: lib/
-  pluginModelPath: assets/
-  tagMode: false
-  debug: false
-  model:
-    use: live2d-widget-model-tororo
-  display:
-    position: right
-    width: 100
-    height: 200
-  mobile:
-    show: true
-  react:
-    opacity: 0.9
 
-aplayer:
-  meting: true
-  asset_inject: false
 
 auto_category:
   enable: true

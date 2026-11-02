@@ -74,7 +74,7 @@ local_search:
 # MathJax
 mathjax:
   enable: true
-  per_page: true
+  per_page: false
 
 # KaTeX
 katex:
@@ -310,10 +310,10 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: guETV9HOLLk5cauLzQC5oRKO-MdYXbMMI
-  appKey: GYweEU3Sd2ytIhqoyUsTvkUw
+  appId:
+  appKey:
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
-  serverURLs: https://guetv9ho.api.lncldglobal.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
+  serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
   visitor: false
   option:
@@ -844,15 +844,15 @@ css_prefix: true
 inject:
   head:
   # - <link rel="stylesheet" href="/xxx.css">
-    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@latest/hexo/css/loading_style_1.css" > # spinner-box风格样式文件
-    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@latest/hexo/css/loading_style_2.css" > # gear风格样式文件
+#   - <link rel="stylesheet" href="/css/loading_style_1.css" > # spinner-box风格样式文件  （加载动画已关闭，用不到；开启 preloader 时去掉 # 号）
+#   - <link rel="stylesheet" href="/css/loading_style_2.css" > # gear风格样式文件  （加载动画已关闭，用不到；开启 preloader 时去掉 # 号）
 #    - <link rel="stylesheet" href="/css/my.css">
 #    - <link rel="stylesheet" href="/css/my.js">
     - <link rel="stylesheet" href="/css/tasks.css">
-    - <script src="/js/tasks.js"></script>
+    - <script src="/js/tasks.js" defer></script>
   bottom:
   # - <script src="xxxx"></script>
-    - <div class="aplayer no-destroy" data-id="112875926" data-server="netease" data-api="https://api.injahow.cn/meting/?server=:server&type=:type&id=:id&r=:r" data-autoplay="false" data-type="playlist" data-fixed="true" data-order="random"> </div>
+    - <div class="aplayer no-destroy" data-id="112875926" data-server="netease" data-api="https://api.injahow.cn/meting/?server=:server&type=:type&id=:id&r=:r" data-preload="none" data-autoplay="false" data-type="playlist" data-fixed="true" data-order="random"> </div>
 #    - <link rel="stylesheet" href="/css/my.css">
 #    - <link rel="stylesheet" href="/css/my.js">
 
@@ -866,7 +866,7 @@ CDN:
   utils:
 
   # pjax
-  pjax:
+  pjax: /lib/pjax/pjax.min.js
 
   # comments
   gitalk:
@@ -876,14 +876,14 @@ CDN:
   disqusjs:
   disqusjs_css:
   utterances:
-  twikoo:
+  twikoo: /lib/twikoo/twikoo.all.min.js
   waline:
   giscus:
 
   # share
   addtoany:
-  sharejs:
-  sharejs_css:
+  sharejs: /lib/social-share/js/social-share.min.js
+  sharejs_css: /lib/social-share/css/share.min.css
 
   # search
   algolia_js:
@@ -891,28 +891,28 @@ CDN:
   instantsearch_v4:
 
   # math
-  mathjax:
+  mathjax: /lib/mathjax/es5/tex-mml-chtml.js
   katex:
   katex_copytex:
   katex_copytex_css:
-  mermaid:
+  mermaid: /lib/mermaid/mermaid.min.js
 
   # count
   busuanzi:
 
   # background effect
-  canvas_ribbon:
+  canvas_ribbon: /lib/butterfly-extsrc/canvas-ribbon.min.js
   canvas_fluttering_ribbon:
   canvas_nest:
 
-  lazyload:
+  lazyload: /lib/vanilla-lazyload/lazyload.iife.min.js
   instantpage:
   typed:
   pangu:
 
   # photo
-  fancybox_css_v4:
-  fancybox_v4:
+  fancybox_css_v4: /lib/fancybox/fancybox.css
+  fancybox_v4: /lib/fancybox/fancybox.umd.js
   medium_zoom:
 
   # snackbar
@@ -921,24 +921,24 @@ CDN:
 
   # effect
   activate_power_mode:
-  fireworks:
+  fireworks: /lib/butterfly-extsrc/fireworks.min.js
   click_heart:
   ClickShowText:
 
   # fontawesome
-  fontawesomeV6:
+  fontawesomeV6: /lib/fontawesome/css/all.min.css
 
   # Conversion between Traditional and Simplified Chinese
   translate:
 
   # flickr-justified-gallery
-  flickr_justified_gallery_js:
-  flickr_justified_gallery_css:
+  flickr_justified_gallery_js: /lib/fjGallery/fjGallery.min.js
+  flickr_justified_gallery_css: /lib/fjGallery/fjGallery.css
 
   # aplayer
-  aplayer_css:
-  aplayer_js:
-  meting_js:
+  aplayer_css: /lib/aplayer/APlayer.min.css
+  aplayer_js: /lib/aplayer/APlayer.min.js
+  meting_js: /lib/meting/Meting.min.js
 
   # Prism.js
   prismjs_js:
