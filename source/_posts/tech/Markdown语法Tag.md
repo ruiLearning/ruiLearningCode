@@ -485,7 +485,6 @@ title Key elements in Product X
 {% mermaid %}
 pie
     title Key elements in Product X
-permalink: Markdown语法Tag.html
     "Calcium" : 42.96
     "Potassium" : 50.05
     "Magnesium" : 10.01
@@ -495,7 +494,6 @@ permalink: Markdown语法Tag.html
 {% mermaid %}
 journey
     title My working day
-permalink: Markdown语法Tag.html
     section Go to work
         Make tea: 5: Me
         Go upstairs: 3: Me
@@ -509,7 +507,6 @@ permalink: Markdown语法Tag.html
 {% mermaid %}
 journey
     title My working day
-permalink: Markdown语法Tag.html
     section Go to work
         Make tea: 5: Me
         Go upstairs: 3: Me
@@ -526,7 +523,6 @@ permalink: Markdown语法Tag.html
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
-permalink: Markdown语法Tag.html
 excludes weekdays 2014-01-10
 
 section A section
@@ -543,7 +539,6 @@ Future task2              :         des4, after des3, 5d
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
-permalink: Markdown语法Tag.html
 excludes weekdays 2014-01-10
 
 section A section

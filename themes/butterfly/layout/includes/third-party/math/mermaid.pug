@@ -4,6 +4,7 @@ script.
     if ($mermaidWrap.length) {
       window.runMermaid = () => {
         window.loadMermaid = true
+        if (!window.mermaidInited) { mermaid.initialize({ startOnLoad: false }); window.mermaidInited = true }
         const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? '!{theme.mermaid.theme.dark}' : '!{theme.mermaid.theme.light}'
 
         Array.from($mermaidWrap).forEach((item, index) => {
@@ -11,9 +12,14 @@ script.
           const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
           const mermaidID = 'mermaid-' + index
           const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
-          mermaid.mermaidAPI.render(mermaidID, mermaidDefinition, (svgCode) => {
-            mermaidSrc.insertAdjacentHTML('afterend', svgCode)
-          })
+          // mermaid 10 以后 render 返回 Promise（老写法的回调不再执行，图就出不来）
+          mermaid.render(mermaidID, mermaidDefinition)
+            .then(({ svg }) => {
+              const prev = mermaidSrc.nextElementSibling
+              if (prev && prev.tagName.toLowerCase() === 'svg') prev.remove() // 切换深色模式时替换旧图，不重复
+              mermaidSrc.insertAdjacentHTML('afterend', svg)
+            })
+            .catch(err => console.error('mermaid 渲染失败', err))
         })
       }
 

@@ -253,7 +253,7 @@ date: 2023-07-31 15:24:11
 
 
 
-### 申请要求
+### 申请要求
 1. 学校要求 数学12
 ![image.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308021202158.png)
 ![image.png](https://ruilearning-1258294777.cos.ap-beijing.myqcloud.com/202308021202033.png)

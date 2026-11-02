@@ -90,7 +90,6 @@ hexo version  #查看Hexo的版本
 hexo algolia  # 更新search庫
 hexo new "postName" #新建文章
 hexo new post "title"  # 生成新文章：\source\_posts\title.md，可省略post
-permalink: Hexo常用运营操作.html
 hexo new page "pageName" #新建页面
 hexo clean #清除部署緩存
 hexo n == hexo new #新建文章
