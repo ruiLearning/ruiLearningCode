@@ -1,5 +1,6 @@
 ---
 title: 生活-骑行-北京To山东
+permalink: 生活-骑行-北京To山东.html
 date: 2023-09-15
 categories:
   - live
